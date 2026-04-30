@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,                          // ← 改动1：关闭分析
-    locale: "zh-CN",
+    analytics: null,
+    locale: "en-US",
     baseUrl: "shq-90.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -27,7 +27,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#ffffff",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
@@ -38,7 +38,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#ffffff",
+          light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
@@ -73,7 +73,7 @@ const config: QuartzConfig = {
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.ExplicitPublish(),                // ← 改动2：只有明确标记的笔记才会发布
+      Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),
