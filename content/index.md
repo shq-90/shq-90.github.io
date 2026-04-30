@@ -4,7 +4,7 @@ aliases:
   - Home
 title: SHQ
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T16:10:12.679+08:00
+modified: 2026-04-30T16:27:39.378+08:00
 ---
 
 # Hengqing Shen
@@ -27,8 +27,8 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 
 ## News
 
-- **\[2026.04]** Invited oral presentation at the 11th Youth Earth Science Forum, Guangzhou
-- **\[2025.11]** Invited oral presentation at the 13th National Conference on Environmental Chemistry, Jiangmen
+- **\[2026.04]** Oral presentation at the 11th Youth Earth Science Forum, Guangzhou
+- **\[2025.11]** Oral presentation at the 13th National Conference on Environmental Chemistry, Jiangmen
 - **\[2025]** Paper accepted by _Nature Communications_! Revealing aerosol iodide-accelerated reactive nitrogen cycling in the marine atmosphere
 - **\[2025]** Paper accepted by _Science Bulletin_! Revealing marine sources of formaldehyde in the coastal atmosphere
 - **\[2025]** Awarded Qilu Young Scholar, Shandong University
