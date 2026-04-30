@@ -1,8 +1,8 @@
 ---
 publish: true
-title: 研究方向
+title: Research Interests
 created: 2026-04-30T15:21:17.008+08:00
-modified: 2026-04-30T16:04:20.192+08:00
+modified: 2026-04-30T16:21:09.614+08:00
 ---
 
 # Research Interests

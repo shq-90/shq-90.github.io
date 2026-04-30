@@ -1,8 +1,8 @@
 ---
 publish: true
-title: 工作经历
+title: Experience
 created: 2026-04-30T00:34:50.554+08:00
-modified: 2026-04-30T16:04:46.726+08:00
+modified: 2026-04-30T16:20:42.690+08:00
 ---
 
 # Professional Experience

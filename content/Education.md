@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Education
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-04-30T16:04:32.799+08:00
+modified: 2026-04-30T16:22:08.168+08:00
 ---
 
 # Education
