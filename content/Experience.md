@@ -2,24 +2,22 @@
 publish: true
 title: 工作经历
 created: 2026-04-30T00:34:50.554+08:00
-modified: 2026-04-30T15:50:03.043+08:00
+modified: 2026-04-30T16:04:46.726+08:00
 ---
 
----
+# Professional Experience
 
-# 工作经历
+## The Hong Kong Polytechnic University, Department of Civil and Environmental Engineering
 
-## 香港理工大学 土木及环境工程学系
+**Research Fellow** | Feb 2023 – Present
 
-**Research Fellow** | 2023.02 – 至今
+- Supervisor: Prof. Tao Wang
+- Research: Marine atmospheric chemistry, air-sea exchange of reactive nitrogen and halogens
 
-- 合作导师：王韬 教授
-- 研究方向：海洋大气化学、活性氮与卤素的海-气交互过程
+## Shandong University, Environment Research Institute
 
-## 山东大学 环境研究院
+**Postdoctoral Researcher** | Nov 2019 – Feb 2023
 
-**博士后** | 2019.11 – 2023.02
-
-- 合作导师：薛丽坤 教授
-- 研究方向：沿海大气 HONO 来源、羰基化合物对大气氧化能力的影响
-- 主持国家自然科学青年基金、山东省自然科学青年基金等项目
+- Supervisor: Prof. Likun Xue
+- Research: Coastal atmospheric HONO sources, impacts of carbonyl compounds on atmospheric oxidative capacity
+- Funded by NSFC Young Scientists Fund and Shandong Provincial Natural Science Foundation

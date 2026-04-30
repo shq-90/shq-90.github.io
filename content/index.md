@@ -4,41 +4,39 @@ aliases:
   - Home
 title: SHQ
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T15:53:07.663+08:00
+modified: 2026-04-30T16:03:48.222+08:00
 ---
 
-# 申恒青 (Hengqing Shen)
+# Hengqing Shen (申恒青)
 
-Research Fellow | 香港理工大学 土木及环境工程学系
+Research Fellow | Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
 
-📧 hengqing.shen@polyu.edu.hk | 📞 (+852) 53345265
+📧 hengqing.shen@polyu.edu.hk
 
-[Google Scholar](https://scholar.google.com/citations?user=你的ID) · [GitHub](https://github.com/shq-90) · [Email](mailto:hengqing.shen@polyu.edu.hk)
+[Google Scholar](https://scholar.google.com/citations?user=你的ID) · [Email](mailto:hengqing.shen@polyu.edu.hk)
 
 ---
 
-## 关于我
+## Research Interests
 
-我是香港理工大学土木及环境工程学系 Research Fellow（合作导师：王韬 教授），博士毕业于北京大学环境科学与工程学院（导师：陈忠明 教授）。
+My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _Science Advances_, _Nature Communications_, _Science Bulletin_, and _Environmental Science & Technology_, with **18 papers** as first/corresponding author and **884 total citations**.
 
-我的研究聚焦于**大气多相化学**，致力于揭示反应活性气体在大气中的来源、转化及其环境效应。目前已在 _Nature Communications_、_Science Bulletin_、_Environmental Science & Technology_ 等期刊发表论文 **49 篇**，其中第一/通讯作者论文 **18 篇**，总引用 **884 次**。
+- **Atmospheric Chemistry of Reactive Gases**: Sources and transformation mechanisms of carbonyl compounds, HONO, and halogens in the atmosphere
+- **Marine Atmospheric Chemistry**: Air-sea exchange of reactive nitrogen and halogens in the coastal atmosphere
+- **Atmospheric Multiphase Chemistry**: Gas-particle partitioning, heterogeneous reactions, and their impacts on atmospheric oxidative capacity and fine particulate matter formation
 
-## 研究方向
+## News
 
-- **反应活性气体的大气化学**：羰基化合物、HONO、卤素等在大气中的来源及转化机制
-- **海洋大气化学**：近海大气中活性氮、活性卤素的海-气交换过程
-- **大气多相化学**：气-粒分配、非均相反应对大气氧化能力和细颗粒物形成的影响
+- **\[2026.04]** Invited oral presentation at the 11th Youth Earth Science Forum, Guangzhou
+- **\[2025.11]** Invited oral presentation at the 13th National Conference on Environmental Chemistry, Jiangmen
+- **\[2025]** Paper accepted by _Nature Communications_! Revealing aerosol iodide-accelerated reactive nitrogen cycling in the marine atmosphere
+- **\[2025]** Paper accepted by _Science Bulletin_! Revealing marine sources of formaldehyde in the coastal atmosphere
+- **\[2025]** Awarded Qilu Young Scholar, Shandong University
+- **\[2024]** ACS ES\&T Air 2024 Best Paper Award
 
-## 最新动态
+## Selected Publications
 
-- **\[2026.04]** 受邀在第十一届青年地学论坛做口头报告（广州）
-- **\[2025.11]** 受邀在第十三届全国环境化学大会做口头报告（江门）
-- **\[2025]** 论文被 _Nature Communications_ 接收！揭示气溶胶碘化物加速海洋大气活性氮循环
-- **\[2025]** 论文被 _Science Bulletin_ 接收！揭示沿海大气甲醛的海洋来源
-- **\[2025]** 获山东大学齐鲁青年学者称号
-- **\[2024]** 获 ACS ES\&T Air 2024 Best Paper Award
-
-## 代表性论文
+(\* corresponding author, # co-first author)
 
 1. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148. (IF=15.7)
 
@@ -48,4 +46,4 @@ Research Fellow | 香港理工大学 土木及环境工程学系
 
 4. **Shen H**, Xue L\*, Fan G et al. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _ACS ES\&T Air_, 2024, 1(7): 714-724. (**2024 Best Paper Award**)
 
-[查看全部论文 →](Publications.md)
+[View all publications →](Publications.md)

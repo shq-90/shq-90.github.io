@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-04-30T15:22:40.895+08:00
-modified: 2026-04-30T15:51:03.145+08:00
+modified: 2026-04-30T16:05:30.867+08:00
 ---
 
-# 学术报告
+# Selected Presentations
 
-## 口头报告
+## Invited Oral Presentations
 
-1. 申恒青. 海洋大气 HONO 来源及对大气氧化性影响. **第十一届青年地学论坛**，广州，2026年4月
+1. Shen H. Sources of HONO in the Marine Atmosphere and Its Impact on Atmospheric Oxidative Capacity. **11th Youth Earth Science Forum**, Guangzhou, April 2026.
 
-2. 申恒青. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. **第十三届全国环境化学大会**，江门，2025年11月
+2. Shen H. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. **13th National Conference on Environmental Chemistry**, Jiangmen, November 2025.
 
-3. Shen H. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. **2025 VOCs 国际联合会**，广州，2025年11月
+3. Shen H. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. **2025 International VOCs Conference**, Guangzhou, November 2025.
 
-4. 申恒青. 海洋大气 HONO 的来源与影响. **第九届全国环境地球化学大会**，广州，2025年10月
+4. Shen H. Sources and Impacts of HONO in the Marine Atmosphere. **9th National Conference on Environmental Geochemistry**, Guangzhou, October 2025.
 
-5. 申恒青、杨娟、薛丽坤. 青岛沿海大气 HONO 来源及其对大气氧化能力的影响. **第27届环境科学与技术大会**，线上，2021年11月
+5. Shen H, Yang J, Xue L. Sources of HONO in the Coastal Atmosphere of Qingdao and Its Impact on Atmospheric Oxidative Capacity. **27th Conference on Environmental Science and Technology**, Online, November 2021.
 
-6. Shen H, Chen Z. Characterization of Atmospheric Peroxides and Ozone during and after 2014 APEC Summit. **AGU Fall Meeting**，San Francisco, USA, 2016年12月
+6. Shen H, Chen Z. Characterization of Atmospheric Peroxides and Ozone during and after the 2014 APEC Summit. **AGU Fall Meeting**, San Francisco, USA, December 2016.

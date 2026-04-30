@@ -2,19 +2,19 @@
 publish: true
 title: 研究方向
 created: 2026-04-30T15:21:17.008+08:00
-modified: 2026-04-30T15:50:26.671+08:00
+modified: 2026-04-30T16:04:20.192+08:00
 ---
 
-# 研究方向
+# Research Interests
 
-## 反应活性气体的大气化学
+## Atmospheric Chemistry of Reactive Gases
 
-研究羰基化合物（甲醛、乙二醛等）、亚硝酸（HONO）、卤素等反应活性气体在大气中的来源、气-粒分配及其化学转化过程。重点关注这些活性气体对大气氧化能力和二次污染物形成的影响。
+Investigating the sources, gas-particle partitioning, and chemical transformations of reactive gaseous species in the atmosphere, including carbonyl compounds (formaldehyde, glyoxal), nitrous acid (HONO), and halogens. Special emphasis on the impacts of these reactive gases on atmospheric oxidative capacity and secondary pollutant formation.
 
-## 海洋大气化学
+## Marine Atmospheric Chemistry
 
-聚焦近海大气环境中活性氮、活性卤素和有机物的海-气交换过程。研究海洋大气边界层中 HONO 的日间来源、海洋甲醛排放、以及气溶胶碘化物对活性氮循环的加速作用。
+Focusing on air-sea exchange processes of reactive nitrogen, halogens, and organic species in the coastal atmospheric boundary layer. Research topics include daytime sources of HONO in the marine atmosphere, marine formaldehyde emissions, and the role of aerosol iodide in accelerating reactive nitrogen cycling.
 
-## 大气多相化学
+## Atmospheric Multiphase Chemistry
 
-研究大气中气态污染物与颗粒物之间的非均相反应，包括羰基化合物在 PM₂.₅ 上的气-粒分配、甲醛在细颗粒物上的非均相反应等，揭示多相化学过程对雾霾形成和大气化学的反馈机制。
+Studying heterogeneous reactions between gaseous pollutants and particulate matter, including gas-particle partitioning of carbonyl compounds on PM₂.₅ and heterogeneous reactions of formaldehyde on fine particles. Aiming to reveal the feedback mechanisms of multiphase chemical processes on haze formation and atmospheric chemistry.
