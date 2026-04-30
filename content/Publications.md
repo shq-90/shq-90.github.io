@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-04-30T16:04:03.619+08:00
+modified: 2026-04-30T16:11:07.349+08:00
 ---
 
 # Publications
@@ -55,11 +55,3 @@ modified: 2026-04-30T16:04:03.619+08:00
 ### 2018
 
 14. **Shen H**, Chen Z\*, Li H et al. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _Environmental Science & Technology_, 2018, 52(19): 10997-11006.
-
----
-
-## Under Review
-
-1. Sun W#, **Shen H#**, Wang T\* et al. Rapid HCl Formation from Chlorine Oxidation of VOCs Sustains Coastal Chlorine Cycling. Submitted to _Geophysical Research Letters_ (2025).
-
-2. **Shen H**, Huang L\*, Chen Z\* et al. High Yields of Formic Acid and Acetic Acid during Multi-generational Oxidation of Toluene. Submitted to _Atmospheric Chemistry and Physics_ (2026, Preprint).

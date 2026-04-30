@@ -4,7 +4,7 @@ aliases:
   - Home
 title: SHQ
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T16:08:01.899+08:00
+modified: 2026-04-30T16:10:12.679+08:00
 ---
 
 # Hengqing Shen
@@ -19,7 +19,7 @@ Research Fellow | Department of Civil and Environmental Engineering, The Hong Ko
 
 ## Research Interests
 
-My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _Science Advances_, _Nature Communications_, _Science Bulletin_, and _Environmental Science & Technology_, with **18 papers** as first/corresponding author and **884 total citations**.
+My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _Science Advances_, _Nature Communications_, _Science Bulletin_, and _Environmental Science & Technology_, with **18 papers** as first/corresponding author and **892 total citations**.
 
 - **Atmospheric Chemistry of Reactive Gases**: Sources and transformation mechanisms of carbonyl compounds, HONO, and halogens in the atmosphere
 - **Marine Atmospheric Chemistry**: Air-sea exchange of reactive nitrogen and halogens in the coastal atmosphere
@@ -34,7 +34,7 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 - **\[2025]** Awarded Qilu Young Scholar, Shandong University
 - **\[2024]** ACS ES\&T Air 2024 Best Paper Award
 
-## Selected Publications
+## Five Representative Publications
 
 (\* corresponding author, # co-first author)
 
@@ -46,4 +46,4 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 
 4. **Shen H**, Xue L\*, Fan G et al. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _ACS ES\&T Air_, 2024, 1(7): 714-724. (**2024 Best Paper Award**)
 
-[View all publications →](Publications.md)
+[View selected publications →](Publications.md)
