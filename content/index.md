@@ -4,7 +4,7 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T18:18:19.994+08:00
+modified: 2026-04-30T18:22:37.628+08:00
 ---
 
 # Hengqing Shen
@@ -19,7 +19,7 @@ Research Fellow | Department of Civil and Environmental Engineering, The Hong Ko
 
 ## Research Interests
 
-My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _Science Advances_, _Nature Communications_, _Science Bulletin_, and _Environmental Science & Technology_, with **18 papers** as first/corresponding author and **892 total citations**.
+My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _**Science Advances**_, _**Nature Communications**_, _**Science Bulletin**_, and _**Environmental Science & Technology**_, with **18 papers** as first/corresponding author and **892 total citations**.
 
 - **Atmospheric Chemistry of Reactive Gases**: Sources and transformation mechanisms of carbonyl compounds, HONO, and halogens in the atmosphere
 - **Marine Atmospheric Chemistry**: Air-sea exchange of reactive nitrogen and halogens in the coastal atmosphere
