@@ -4,10 +4,10 @@ aliases:
   - Home
 title: SHQ
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T16:03:48.222+08:00
+modified: 2026-04-30T16:08:01.899+08:00
 ---
 
-# Hengqing Shen (申恒青)
+# Hengqing Shen
 
 Research Fellow | Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
 
