@@ -4,7 +4,7 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-04-30T18:17:01.702+08:00
+modified: 2026-04-30T18:18:19.994+08:00
 ---
 
 # Hengqing Shen
@@ -38,11 +38,11 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 
 (\* corresponding author, # co-first author)
 
-1. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148. (IF=15.7)
+1. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148.
 
-2. **Shen H**, Xue L\*, Zhang G\* et al. Marine Sources of Formaldehyde in the Coastal Atmosphere. _Science Bulletin_, 2025, 70(1): 96-103. (IF=21.1)
+2. **Shen H**, Xue L\*, Zhang G\* et al. Marine Sources of Formaldehyde in the Coastal Atmosphere. _Science Bulletin_, 2025, 70(1): 96-103.
 
-3. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _Environmental Science & Technology_, 2024, 58(48): 21286-21294. (IF=11.3)
+3. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _Environmental Science & Technology_, 2024, 58(48): 21286-21294.
 
 4. **Shen H**, Xue L\*, Fan G et al. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _ACS ES\&T Air_, 2024, 1(7): 714-724. (**2024 Best Paper Award**)
 
