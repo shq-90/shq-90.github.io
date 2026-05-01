@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-04-30T18:30:41.929+08:00
+modified: 2026-05-01T18:23:55.377+08:00
 ---
 
 # Publications
@@ -20,7 +20,7 @@ modified: 2026-04-30T18:30:41.929+08:00
 
 ### 2025
 
-2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148.
+2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez\*, Wang W, Wang T\*. [Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere](content/papers/natcomm-2025). _Nature Communications_, 2025, 16(1): 8148.
 
 3. **Shen H**, Xue L\*, Zhang G\* et al. Marine Sources of Formaldehyde in the Coastal Atmosphere. _Science Bulletin_, 2025, 70(1): 96-103.
 

@@ -4,14 +4,14 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-01T18:17:30.101+08:00
+modified: 2026-05-01T18:20:32.619+08:00
 ---
 
 # Hengqing Shen
 
-Research Fellow | Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
+![[content/assets/个人照.png|100]]
 
-![[content/assets/个人照.png]]
+Research Fellow | Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
 
 📧 hengqing.shen@polyu.edu.hk
 
