@@ -21,20 +21,20 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Playfair Display", // 衬线体，更有学术感
+        body: "Source Serif 4", // 正文衬线体，阅读舒适
+        code: "JetBrains Mono", // 代码字体
       },
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          lightgray: "#f0f4f8",
+          gray: "#b0b8c4",
+          darkgray: "#3d4f5f",
+          dark: "#1a2332",
+          secondary: "#1a5276",
+          tertiary: "#2980b9",
+          highlight: "rgba(41, 128, 185, 0.1)",
           textHighlight: "#fff23688",
         },
         darkMode: {
