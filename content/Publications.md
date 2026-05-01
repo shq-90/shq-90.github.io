@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-01T18:45:04.333+08:00
+modified: 2026-05-01T19:17:55.093+08:00
 ---
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
@@ -13,7 +13,7 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 ## Journal Articles
 
-### 2026
+### 2026 (3 papers | 1 first/corresponding)
 
 1. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L, Yang J, Zhang J, Nie Y et al. Atmospheric Nitrous Acid in Contrasting Environments in North China. _Environmental Science & Technology_, 2026, 60(14): 10961-10969.
 
@@ -21,9 +21,9 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 3. Xue L, Zhu Y, Gao J, Zhong X, Cui C, Wang S, Jiang Z, Sun Y, Li Q et al. Critical Transition of Urban Ozone Formation Regime in the North China Plain. _National Science Review_, 2026, 13(3): nwaf596.
 
-### 2025
+### 2025 (14 papers | 5 first/corresponding)
 
-4. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148.
+4. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148. [Details](content/papers/natcomm-2025)
 
 5. **Shen H**, Xue L\*, Zhang G\*, Zhu Y, Zhao M, Zhong X, Nie Y, Tang J, Liu Y, Yuan Q, Gao H, Wang T\*, Wang W. Marine Sources of Formaldehyde in the Coastal Atmosphere. _Science Bulletin_, 2025, 70(1): 96-103.
 
@@ -51,7 +51,7 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 17. Shan Y, Li Y, Zhang L, Qi A, Zhu Y, Qi Y, Yang L, Huang L, Mu J, Liu M et al. Observations of Polycyclic Aromatic Hydrocarbons at Changbai Mountain in Northeast Asia: Characteristics, Transboundary Transport, and Health Impacts. _Journal of Environmental Sciences_, 2025.
 
-### 2024
+### 2024 (6 papers | 3 first/corresponding)
 
 18. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _Environmental Science & Technology_, 2024, 58(48): 21286-21294.
 
@@ -65,7 +65,7 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 23. Shan Y, Zhu Y, Qi Y, Yang Y, Mu J, Liu M, Li H, Zhang J, Nie Y, Liu Y et al. Insights into Atmospheric Trace Gases, Aerosols, and Transport Processes at a High-Altitude Station (2623 m asl) in Northeast Asia. _Atmospheric Environment_, 2024, 326: 120482.
 
-### 2023
+### 2023 (6 papers | 1 first/corresponding)
 
 24. Zhong X, **Shen H\***, Zhao M, Zhang J, Sun Y, Liu Y, Zhang Y, Shan Y, Li H et al. Nitrous Acid Budgets in the Coastal Atmosphere: Potential Daytime Marine Sources. _Atmospheric Chemistry and Physics_, 2023, 23(23): 14761-14778.
 
@@ -79,7 +79,7 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 29. Li M, Wang X, Zhao Y, Du P, Li H, Li J, **Shen H**, Liu Z, Jiang Y, Chen J et al. Atmospheric Nitrated Phenolic Compounds in Particle, Gaseous, and Aqueous Phases during Cloud Events at a Mountain Site in North China. _Journal of Geophysical Research: Atmospheres_, 2023, 127(18): e2022JD037130.
 
-### 2022
+### 2022 (7 papers | 3 first/corresponding)
 
 30. Jiang Y, Xue L\*, **Shen H\***, Dong C, Xiao Z, Wang W. Dominant Processes of HONO Derived from Multiple Field Observations in Contrasting Environments. _Environmental Science & Technology Letters_, 2022, 9(4): 258-264. (**Cover Paper**)
 
@@ -95,7 +95,7 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 36. Zhao M, **Shen H\***, Chen T, Li Z, Sun Z, Ji Y, Xue L, Li H, Wang W, Shang F. Characteristics and Sensitivity Analysis of Ozone in the Representative City of the Yellow River Delta in Summer. 2022.
 
-### 2021
+### 2021 (3 papers | 3 first/corresponding)
 
 37. **Shen H**, Liu Y, Zhao M, Li J\*, Zhang Y, Yang J, Jiang Y, Chen T, Chen M, Huang X, Li C, Guo D, Sun X, Xue L\*, Wang W. Significance of Carbonyl Compounds to Photochemical Ozone Formation in a Coastal City (Shantou) in Eastern China. _Science of The Total Environment_, 2021, 764: 144031.
 
@@ -103,15 +103,15 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 39. Yang J, **Shen H\***, Guo M-Z\*, Zhao M, Jiang Y, Chen T, Liu Y, Li H, Zhu Y, Meng H, Wang W, Xue L\*. Strong Marine-Derived Nitrous Acid (HONO) Production Observed in the Coastal Atmosphere of Northern China. _Atmospheric Environment_, 2021, 244: 117948.
 
-### 2020
+### 2020 (1 paper)
 
 40. Xuan X, Chen Z\*, Gong Y, **Shen H**, Chen S. Partitioning of Hydrogen Peroxide in Gas-Liquid and Gas-Aerosol Phases. _Atmospheric Chemistry and Physics_, 2020, 20(9): 5513-5526.
 
-### 2019
+### 2019 (1 paper)
 
 41. Qian X, **Shen H**, Chen Z\*. Characterizing Summer and Winter Carbonyl Compounds in Beijing Atmosphere. _Atmospheric Environment_, 2019, 214: 116845.
 
-### 2018
+### 2018 (4 papers | 1 first/corresponding)
 
 42. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _Environmental Science & Technology_, 2018, 52(19): 10997-11006.
 
@@ -121,6 +121,6 @@ modified: 2026-05-01T18:45:04.333+08:00
 
 45. Wu H, Wang Y, Li H, Huang L, Huang D, **Shen H**, Xing Y, Chen Z\*. The OH-Initiated Oxidation of Atmospheric Peroxyacetic Acid: Experimental and Model Studies. _Atmospheric Environment_, 2018, 164: 61-70.
 
-### 2017
+### 2017 (1 paper)
 
 46. Feng L, **Shen H**, Zhu Y, Gao H, Yao X\*. Insight into Generation and Evolution of Sea-Salt Aerosols from Field Measurements in Diversified Marine and Coastal Atmospheres. _Scientific Reports_, 2017, 7(1): 41260.
