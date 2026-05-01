@@ -40,7 +40,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorer",
+      folderClickBehavior: "collapse",
+      filterFn: (node) => {
+        return node.name !== "content" && node.name !== "papers";
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -64,7 +70,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorer",
+      folderClickBehavior: "collapse",
+      filterFn: (node) => {
+        return node.name !== "content" && node.name !== "papers";
+      },
+    }),
   ],
   right: [],
 }
