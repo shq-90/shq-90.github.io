@@ -2,10 +2,8 @@
 publish: true
 title: Education
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-04-30T16:22:08.168+08:00
+modified: 2026-05-01T19:49:24.608+08:00
 ---
-
-# Education
 
 ## Peking University, School of Environmental Science and Engineering
 
