@@ -2,13 +2,12 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-04-30T16:21:40.190+08:00
+modified: 2026-04-30T18:30:41.929+08:00
 ---
 
 # Publications
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
-
 (\* corresponding author, # co-first author)
 
 ---
