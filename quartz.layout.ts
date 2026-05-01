@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Explorer",
       folderClickBehavior: "collapse",
       filterFn: (node) => {
-        return node.name !== "content" && node.name !== "papers";
+        return node.name !== "papers";
       },
     }),
   ],
@@ -74,7 +74,7 @@ export const defaultListPageLayout: PageLayout = {
       title: "Explorer",
       folderClickBehavior: "collapse",
       filterFn: (node) => {
-        return node.name !== "content" && node.name !== "papers";
+        return node.name !== "papers";
       },
     }),
   ],
