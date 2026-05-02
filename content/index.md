@@ -4,7 +4,7 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-01T18:20:32.619+08:00
+modified: 2026-05-02T17:01:38.928+08:00
 ---
 
 # Hengqing Shen
@@ -48,4 +48,4 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 
 4. **Shen H**, Xue L\*, Fan G et al. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _ACS ES\&T Air_, 2024, 1(7): 714-724. (**2024 Best Paper Award**)
 
-[View selected publications →](Publications.md)
+[View publications →](Publications.md)

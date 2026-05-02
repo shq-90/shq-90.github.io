@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-02T16:55:53.657+08:00
+modified: 2026-05-02T16:56:52.416+08:00
 ---
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
@@ -29,7 +29,7 @@ modified: 2026-05-02T16:55:53.657+08:00
 6. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _Environmental Science & Technology_, 2024, 58(48): 21286-21294.
 7. Zhao M, **Shen H\***, Zhang J, Liu Y, Sun Y, Wang X, Dong C, Zhu Y, Li H et al. Carbonyl Compounds Regulate Atmospheric Oxidation Capacity and Particulate Sulfur Chemistry in the Coastal Atmosphere. _Environmental Science & Technology_, 2024, 58(39): 17334-17343.
 8. **Shen H**, Xue L\*, Fan G, Xu H, Zhang Z, Pan G, Wang T\*, Wang W. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _ACS ES\&T Air_, 2024, 1(7): 714-724. (**2024 Best Paper Award**)
-9. Tang J, **Shen H**, Li H, Ji Y, Zhong X, Zhao M, Liu Y, Guo M, Shang F et al. Significant Contributions of the Petroleum Industry to Volatile Organic Compounds and Ozone Pollution: Insights from Year-Long Observations in the Yellow River Delta. _Atmospheric and Oceanic Science Letters_, 2024, 17(6): 100523.
+9. Tang J, **Shen H\***, Li H, Ji Y, Zhong X, Zhao M, Liu Y, Guo M, Shang F et al. Significant Contributions of the Petroleum Industry to Volatile Organic Compounds and Ozone Pollution: Insights from Year-Long Observations in the Yellow River Delta. _Atmospheric and Oceanic Science Letters_, 2024, 17(6): 100523.
 
 ### 2023
 
