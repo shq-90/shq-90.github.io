@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-02T11:31:17.323+08:00
+modified: 2026-05-02T16:55:53.657+08:00
 ---
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
@@ -22,7 +22,7 @@ modified: 2026-05-02T11:31:17.323+08:00
 2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _Nature Communications_, 2025, 16(1): 8148. [Details](natcomm-2025.md)
 3. **Shen H**, Xue L\*, Zhang G\*, Zhu Y, Zhao M, Zhong X, Nie Y, Tang J, Liu Y, Yuan Q, Gao H, Wang T\*, Wang W. Marine Sources of Formaldehyde in the Coastal Atmosphere. _Science Bulletin_, 2025, 70(1): 96-103.
 4. Zhao M, **Shen H\***, Zhang G, Li L, Zhu Y, Meng H, Zhao B, Liu Y, Zhong X et al. Underestimated Formaldehyde Emissions from Residential Coal Combustion in Rural China. _Environmental Science & Technology_, 2025, 59(50): 27508-27516.
-5. Zheng C, **Shen H**, Sun J, Liu G, Cao H, Zhang J, Gong X, Xu D. Multi-Routine-Data Driven Spatio-Temporal Short-Term Predictions for Surface Ozone in China. _Air Quality, Atmosphere & Health_, 2025, 18(7): 2021-2030.
+5. Zheng C#, **Shen H#**, Sun J, Liu G, Cao H, Zhang J, Gong X, Xu D. Multi-Routine-Data Driven Spatio-Temporal Short-Term Predictions for Surface Ozone in China. _Air Quality, Atmosphere & Health_, 2025, 18(7): 2021-2030.
 
 ### 2024
 
