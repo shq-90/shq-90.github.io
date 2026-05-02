@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-02T16:56:52.416+08:00
+modified: 2026-05-02T23:24:19.306+08:00
 ---
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
@@ -78,4 +78,4 @@ modified: 2026-05-02T16:56:52.416+08:00
 27. Qin M, Chen Z\*, **Shen H**, Li H, Wu H, Wang Y. Impacts of Heterogeneous Reactions to Atmospheric Peroxides: Observations and Budget Analysis Study. _Atmospheric Environment_, 2018, 183: 144-153.
 28. Xing Y, Li H, Huang L, Wu H, **Shen H**, Chen Z\*. The Production of Formaldehyde and Hydroxyacetone in Methacrolein Photooxidation: New Insights into Mechanism and Effects of Water Vapor. _Journal of Environmental Sciences_, 2018, 66: 1-11.
 29. Wu H, Wang Y, Li H, Huang L, Huang D, **Shen H**, Xing Y, Chen Z\*. The OH-Initiated Oxidation of Atmospheric Peroxyacetic Acid: Experimental and Model Studies. _Atmospheric Environment_, 2018, 164: 61-70.
-30. Feng L, **Shen H**, Zhu Y, Gao H, Yao X\*. Insight into Generation and Evolution of Sea-Salt Aerosols from Field Measurements in Diversified Marine and Coastal Atmospheres. _Scientific Reports_, 2017, 7(1): 41260.
+30. Feng L, **Shen H**, Zhu Y, Gao H, Yao X\*. Insight into Generation and Evolution of Sea-Salt Aerosols from Field Measurements in Diversified Marine and Coastal Atmospheres. _**Scientific Reports**_, 2017, 7(1): 41260.
