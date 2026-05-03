@@ -2,10 +2,10 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-03T16:58:34.038+08:00
+modified: 2026-05-03T17:26:04.491+08:00
 ---
 
-## 48 papers published | **17 papers** as first/corresponding author | 893 total citations
+48 papers published | **17 papers** as first/corresponding author | 893 total citations
 
 ## First/corresponding	authors (N=17)
 
@@ -15,7 +15,7 @@ modified: 2026-05-03T16:58:34.038+08:00
 
 1. Accepted.
 
-2. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
+2. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
 
 ### 2025
 
