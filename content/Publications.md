@@ -2,12 +2,10 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-03T14:52:58.943+08:00
+modified: 2026-05-03T16:58:34.038+08:00
 ---
 
-48 papers published | **17 papers** as first/corresponding author | 893 total citations
-
----
+## 48 papers published | **17 papers** as first/corresponding author | 893 total citations
 
 ## First/corresponding	authors (N=17)
 
