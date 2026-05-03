@@ -15,10 +15,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Email": "mailto:hengqing.shen@polyu.edu.hk",
       "Google Scholar": "https://scholar.google.com.hk/citations?user=2xsnOWEAAAAJ&hl=zh-CN",
-      "GitHub": "https://github.com/shq-90",
       "ResearchGate": "https://www.researchgate.net/profile/Hengqing-Shen-2?ev=hdr_xprf",
+      "GitHub": "https://github.com/shq-90",
     },
   }),
 }
