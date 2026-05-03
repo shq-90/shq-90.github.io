@@ -17,7 +17,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Google Scholar": "https://scholar.google.com.hk/citations?user=2xsnOWEAAAAJ&hl=zh-CN",
       "ResearchGate": "https://www.researchgate.net/profile/Hengqing-Shen-2?ev=hdr_xprf",
-      "GitHub": "https://github.com/shq-90",
     },
     copyright: "",
   }),
