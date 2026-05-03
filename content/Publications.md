@@ -2,7 +2,7 @@
 publish: true
 title: Publications
 created: 2026-04-30T00:33:55.162+08:00
-modified: 2026-05-02T23:32:17.853+08:00
+modified: 2026-05-03T11:11:41.495+08:00
 ---
 
 **49 papers** published | **18 papers** as first/corresponding author | **884 total citations**
@@ -50,32 +50,55 @@ modified: 2026-05-02T23:32:17.853+08:00
 ## Co-authorship
 
 1. Sun W, Chen X, Jiang Y, **Shen H**, Zong Z, Xue L, Wang X, Yao X, Gao Y et al. High Levels of ClNO₂ Enhance Wintertime Atmospheric Oxidation Capacity at a Coastal Site in North China. _Journal of Environmental Sciences_, 2026.
+
 2. Sun W, Chen X, Jiang Y, **Shen H**, Zong Z, Xue L, Wang X, Yao X, Gao Y et al. High Levels of ClNO₂ Enhance Wintertime Atmospheric Oxidation Capacity at a Coastal Site in North China. _Journal of Environmental Sciences_, 2026.
+
 3. Xue L, Zhu Y, Gao J, Zhong X, Cui C, Wang S, Jiang Z, Sun Y, Li Q et al. Critical Transition of Urban Ozone Formation Regime in the North China Plain. _National Science Review_, 2026, 13(3): nwaf596.
-4. Dai J, Wang T, **Shen H**, Xia M, Sun W, Brasseur GP. Significant Impact of a Daytime Halogen Oxidant on Coastal Air Quality. _Environmental Science & Technology_, 2025, 59(4): 2169-2180.
-5. Zhang Y, Chen X, Wang T, Li Q, Xia M, Li M, Mu J, **Shen H**, Herrmann H et al. Dual Role of Aerosols on Reactive Bromine Recycling in Extrapolar Marine and Continental Regions. _Journal of Geophysical Research: Atmospheres_, 2025, 129(23): e2024JD042040.
-6. Xue L, Jiang Y, Li H, Liu Q, Zhang J, **Shen H**, Zhao Y, Guo Z, Chen T et al. Reactive Oxidized Nitrogen at a High Mountain Site in the North China Plain: Chemical Speciation and Temporal Variations during 2007–2023. _Journal of Geophysical Research: Atmospheres_, 2025, 130(7): e2024JD042479.
-7. Gao Y, Fan Q, Zhu Y, **Shen H**, Yuan Q, Gao Y, Gao H, Yao X. An Adiabatic-Expansion-Induced Perturbation Study on Gas–Aerosol Partitioning in Ambient Air—Formation of NH₄NO₃ and Microdroplet Nitrogen Fixation. _Atmosphere_, 2025, 16(5): 544.
-8. Cui C, Zhu Y, Yan X, Zhang X, Zhao M, Mu J, Zhong X, Tang J, Nie Y et al. Rapid Formation of Acetaldehyde and Its Influence on Ozone Formation in a Petrochemical Industrialized Region. _Journal of Environmental Sciences_, 2025, 157: 134-147.
-9. Jiang Y, Chen X, Zong Z, **Shen H**, So PK, Wang C, Xue L, Wang X et al. A Previously Unrecognized Industrial Source of Atmospheric Molecular Bromine in Eastern China. _Environmental Science & Technology Letters_, 2025, 12(11): 1516-1522.
-10. Sun Y, Zhu Y, Dong C, Zhang Y, Bi Y, Wu D, Yin X, **Shen H**, Chen T, Li H et al. Change of Chemical Compositions of the Regional Free Troposphere in North China during COVID-19: Observational Evidence from the Mt. Tai Observatory. _Atmospheric Environment_, 2025: 121671.
-11. Yang Y, Yan C, Yuang R, Liu P, Zhang H, Chen H, Zhu Y, **Shen H**, Wu Y et al. Multiphase Reactions of Aromatic Organosulfates with OH Radicals: Kinetics, Mechanisms, and Environmental Effects. _EGUsphere_, 2025: 1-19.
-12. Shan Y, Li Y, Zhang L, Qi A, Zhu Y, Qi Y, Yang L, Huang L, Mu J, Liu M et al. Observations of Polycyclic Aromatic Hydrocarbons at Changbai Mountain in Northeast Asia: Characteristics, Transboundary Transport, and Health Impacts. _Journal of Environmental Sciences_, 2025.
-13. Zhang Y, Fu Q, Wang T, Huo J, Cui H, Mu J, Tan Y, Chen T, **Shen H**, Li Q et al. A Quantitative Analysis of Causes for Increasing Ozone Pollution in Shanghai during the 2022 Lockdown and Implications for Control Policy. _Atmospheric Environment_, 2024, 326: 120469.
-14. Shan Y, Zhu Y, Qi Y, Yang Y, Mu J, Liu M, Li H, Zhang J, Nie Y, Liu Y et al. Insights into Atmospheric Trace Gases, Aerosols, and Transport Processes at a High-Altitude Station (2623 m asl) in Northeast Asia. _Atmospheric Environment_, 2024, 326: 120482.
-15. Zhong X, **Shen H\***, Zhao M, Zhang J, Sun Y, Liu Y, Zhang Y, Shan Y, Li H et al. Nitrous Acid Budgets in the Coastal Atmosphere: Potential Daytime Marine Sources. _Atmospheric Chemistry and Physics_, 2023, 23(23): 14761-14778.
-16. Liu Y, Zhou M, Zhao M, Jing S, Wang H, Lu K, **Shen H**. Determination of Urban Formaldehyde Emission Ratios in the Shanghai Megacity. _Environmental Science & Technology_, 2023, 57(43): 16489-16499.
-17. Zhang Y, Wang H, Huang L, Qiao L, Zhou M, Mu J, Wu C, Zhu Y, **Shen H** et al. Double-Edged Role of VOCs Reduction in Nitrate Formation: Insights from Observations during the China International Import Expo 2018. _Environmental Science & Technology_, 2023, 57(42): 15979-15989.
-18. Jiang Y, Hoffmann EH, Tilgner A, Aiyuk MBE, Andersen ST, Wen L et al. Insights into NOₓ and HONO Chemistry in the Tropical Marine Boundary Layer at Cape Verde during the MarParCloud Campaign. _Journal of Geophysical Research: Atmospheres_, 2023, 128(16): e2023JD038865.
-19. Mu J, Zhang Y, Xia Z, Fan G, Zhao M, Sun X, Liu Y, Chen T, **Shen H** et al. Two-Year Online Measurements of Volatile Organic Compounds (VOCs) at Four Sites in a Chinese City: Significant Impact of Petrochemical Industry. _Science of The Total Environment_, 2023, 858: 159951.
-20. Li M, Wang X, Zhao Y, Du P, Li H, Li J, **Shen H**, Liu Z, Jiang Y, Chen J et al. Atmospheric Nitrated Phenolic Compounds in Particle, Gaseous, and Aqueous Phases during Cloud Events at a Mountain Site in North China. _Journal of Geophysical Research: Atmospheres_, 2023, 127(18): e2022JD037130.
-21. Gu R, Wang W, Peng X, Xia M, Zhao M, Zhang Y, Wang Y, Liu Y, **Shen H** et al. Nitrous Acid in the Polluted Coastal Atmosphere of the South China Sea: Ship Emissions, Budgets, and Impacts. _Science of The Total Environment_, 2022, 826: 153692.
-22. Yu C, Huang L, Xue L, **Shen H**, Li Z, Zhao M, Yang J, Zhang Y, Li H, Mu J et al. Photoenhanced Heterogeneous Uptake of NO₂ and HONO Formation on Authentic Winter Time Urban Grime. _ACS Earth and Space Chemistry_, 2022, 6(8): 1960-1968.
-23. Kou R, Guo MZ, Shi Y, Mei M, Jiang L, Chu H, Zhang Y, **Shen H**, Xue L. Sound-Insulation and Photocatalytic Foamed Concrete Prepared with Dredged Sediment. _Journal of Cleaner Production_, 2022, 356: 131902.
-24. Sun XY, Zhao M, **Shen H**, Liu Y, Du MY, Zhang WJ, Xu HY, Fan GL et al. Ozone Formation and Key VOCs of a Continuous Summertime O₃ Pollution Event in Ji'nan. _Huan Jing Ke Xue_, 2022, 43(2): 686-695.
-25. Xuan X, Chen Z\*, Gong Y, **Shen H**, Chen S. Partitioning of Hydrogen Peroxide in Gas-Liquid and Gas-Aerosol Phases. _Atmospheric Chemistry and Physics_, 2020, 20(9): 5513-5526.
-26. Qian X, **Shen H**, Chen Z\*. Characterizing Summer and Winter Carbonyl Compounds in Beijing Atmosphere. _Atmospheric Environment_, 2019, 214: 116845.
-27. Qin M, Chen Z\*, **Shen H**, Li H, Wu H, Wang Y. Impacts of Heterogeneous Reactions to Atmospheric Peroxides: Observations and Budget Analysis Study. _Atmospheric Environment_, 2018, 183: 144-153.
-28. Xing Y, Li H, Huang L, Wu H, **Shen H**, Chen Z\*. The Production of Formaldehyde and Hydroxyacetone in Methacrolein Photooxidation: New Insights into Mechanism and Effects of Water Vapor. _Journal of Environmental Sciences_, 2018, 66: 1-11.
-29. Wu H, Wang Y, Li H, Huang L, Huang D, **Shen H**, Xing Y, Chen Z\*. The OH-Initiated Oxidation of Atmospheric Peroxyacetic Acid: Experimental and Model Studies. _**Atmospheric Environment**_, 2018, 164: 61-70. https://doi.org/10.1016/j.atmosenv.2017.05.038.
-30. Feng L, **Shen H**, Zhu Y, Gao H, Yao X\*. Insight into Generation and Evolution of Sea-Salt Aerosols from Field Measurements in Diversified Marine and Coastal Atmospheres. _**Scientific Reports**_, 2017, 7(1): 41260. https://doi.org/10.1038/srep41260.
+
+4. Sun Y, Zhu Y, Dong C, Zhang Y, Bi Y, Wu D, Yin X, **Shen H**, Chen T, Li H et al. Change of Chemical Compositions of the Regional Free Troposphere in North China during COVID-19: Observational Evidence from the Mt. Tai Observatory. _Atmospheric Environment_, 2025: 121671.
+
+5. Dai J, Wang T, **Shen H**, Xia M, Sun W, Brasseur GP. Significant Impact of a Daytime Halogen Oxidant on Coastal Air Quality. _Environmental Science & Technology_, 2025, 59(4): 2169-2180.
+
+6. Zhang Y, Chen X, Wang T, Li Q, Xia M, Li M, Mu J, **Shen H**, Herrmann H et al. Dual Role of Aerosols on Reactive Bromine Recycling in Extrapolar Marine and Continental Regions. _Journal of Geophysical Research: Atmospheres_, 2025, 129(23): e2024JD042040.
+
+7. Xue L, Jiang Y, Li H, Liu Q, Zhang J, **Shen H**, Zhao Y, Guo Z, Chen T et al. Reactive Oxidized Nitrogen at a High Mountain Site in the North China Plain: Chemical Speciation and Temporal Variations during 2007–2023. _Journal of Geophysical Research: Atmospheres_, 2025, 130(7): e2024JD042479.
+
+8. Gao Y, Fan Q, Zhu Y, **Shen H**, Yuan Q, Gao Y, Gao H, Yao X. An Adiabatic-Expansion-Induced Perturbation Study on Gas–Aerosol Partitioning in Ambient Air—Formation of NH₄NO₃ and Microdroplet Nitrogen Fixation. _Atmosphere_, 2025, 16(5): 544.
+
+9. Cui C, Zhu Y, Yan X, Zhang X, Zhao M, Mu J, Zhong X, Tang J, Nie Y et al. Rapid Formation of Acetaldehyde and Its Influence on Ozone Formation in a Petrochemical Industrialized Region. _Journal of Environmental Sciences_, 2025, 157: 134-147.
+
+10. Jiang Y, Chen X, Zong Z, **Shen H**, So PK, Wang C, Xue L, Wang X et al. A Previously Unrecognized Industrial Source of Atmospheric Molecular Bromine in Eastern China. _Environmental Science & Technology Letters_, 2025, 12(11): 1516-1522.
+
+11. Shan Y, Li Y, Zhang L, Qi A, Zhu Y, Qi Y, Yang L\*, Huang L, Mu J, Liu M, Li H, Zhang L, Wang Y, Wang Z, **Shen H**, Zhang Y, Wang X, Xue L\*, Wang W\*. Observations of Polycyclic Aromatic Hydrocarbons at Changbai Mountain in Northeast Asia: Characteristics, Transboundary Transport, and Health Impacts. _**Journal of Environmental Sciences**_, 2025. https://doi.org/10.1016/j.jes.2025.06.020.
+
+12. Zhang Y, Fu Q\*, Wang T\*, Huo J, Cui H, Mu J, Tan Y, Chen T, **Shen H**, Li Q, Xue L. A Quantitative Analysis of Causes for Increasing Ozone Pollution in Shanghai during the 2022 Lockdown and Implications for Control Policy. _**Atmospheric Environment**_, 2024, 326: 120469. https://doi.org/10.1016/j.atmosenv.2024.120469.
+
+13. Shan Y, Zhu Y\*, Qi Y, Yang Y, Mu J, Liu M, Li H, Zhang J, Nie Y, Liu Y, Zhao M, Zhang X, Zhang L, Wang Y, Li H, **Shen H**, Zhang Y, Wang X, Huang L, Wang, W\*, and Xue L\*. Insights into Atmospheric Trace Gases, Aerosols, and Transport Processes at a High-Altitude Station (2623 m asl) in Northeast Asia. _**Atmospheric Environment**_, 2024, 326: 120482. https://doi.org/10.1016/j.atmosenv.2024.120482.
+
+14. Liu Y#, Zhou M#, Zhao M#, Jing S, Wang H, Lu K, **Shen H**. Determination of Urban Formaldehyde Emission Ratios in the Shanghai Megacity. _**Environmental Science & Technology**_, 2023, 57(43): 16489-16499. https://doi.org/10.1021/acs.est.3c06428.
+
+15. Zhang Y, Wang H\*, Huang L\*, Qiao L, Zhou M, Mu J, Wu C, Zhu Y, **Shen H**, Huang C, Wang G, Wang T, Wang W, Xue L\*. Double-Edged Role of VOCs Reduction in Nitrate Formation: Insights from Observations during the China International Import Expo 2018. _**Environmental Science & Technology**_, 2023, 57(42): 15979-15989. https://doi.org/10.1021/acs.est.3c04629.
+
+16. Jiang Y, Hoffmann EH, Tilgner A, Aiyuk MBE, Andersen ST, Wen L, Pinxteren M , **Shen H**, Xue L\*, Wang W, and Herrmann H\*. Insights into NOₓ and HONO Chemistry in the Tropical Marine Boundary Layer at Cape Verde during the MarParCloud Campaign. _**Journal of Geophysical Research: Atmospheres**_, 2023, 128(16): e2023JD038865. https://doi.org/10.1029/2023JD038865.
+
+17. Mu J, Zhang Y\*, Xia Z, Fan G, Zhao M, Sun X, Liu Y, Chen T, **Shen H**, Zhang Z, Zhang H, Pan G, Wang W, Xue L\*. Two-Year Online Measurements of Volatile Organic Compounds (VOCs) at Four Sites in a Chinese City: Significant Impact of Petrochemical Industry. _**Science of The Total Environment**_, 2023, 858: 159951.  https://doi.org/10.1016/j.scitotenv.2022.159951.
+
+18. Li M, Wang X\*, Zhao Y, Du P, Li H, Li J, **Shen H**, Liu Z, Jiang Y, Chen J, Bi Y, Zhao Y, Xue L, Wan Y, Chen J, Wang W. Atmospheric Nitrated Phenolic Compounds in Particle, Gaseous, and Aqueous Phases during Cloud Events at a Mountain Site in North China. _**Journal of Geophysical Research: Atmospheres**_, 2023, 127(18): e2022JD037130. https://doi.org/10.1029/2022JD037130.
+
+19. Gu R, Wang W, Peng X, Xia M, Zhao M, Zhang Y, Wang Y, Liu Y, **Shen H**, Xue L\*, Wang T\*, Wang W . Nitrous Acid in the Polluted Coastal Atmosphere of the South China Sea: Ship Emissions, Budgets, and Impacts. _**Science of The Total Environment**_, 2022, 826: 153692. https://doi.org/10.1016/j.scitotenv.2022.153692.
+
+20. Yu C, Huang L\*, Xue L\*, **Shen H**, Li Z, Zhao M, Yang J, Zhang Y, Li H, Mu J, Wang W. Photoenhanced Heterogeneous Uptake of NO₂ and HONO Formation on Authentic Winter Time Urban Grime. _**ACS Earth and Space Chemistry**_, 2022, 6(8): 1960-1968. https://doi.org/10.1021/acsearthspacechem.2c00054.
+
+21. Kou R, Guo MZ\*, Shi Y, Mei M\*, Jiang L, Chu H, Zhang Y, **Shen H**, Xue L. Sound-Insulation and Photocatalytic Foamed Concrete Prepared with Dredged Sediment. _**Journal of Cleaner Production**_, 2022, 356: 131902.  https://doi.org/10.1016/j.jclepro.2022.131902.
+
+22. Xuan X, Chen Z\*, Gong Y, **Shen H**, Chen S. Partitioning of Hydrogen Peroxide in Gas-Liquid and Gas-Aerosol Phases. _**Atmospheric Chemistry and Physics**_, 2020, 20(9): 5513-5526.  https://doi.org/10.5194/acp-20-5513-2020.
+
+23. Qian X, **Shen H**, Chen Z\*. Characterizing Summer and Winter Carbonyl Compounds in Beijing Atmosphere. _**Atmospheric Environment**_, 2019, 214: 116845. https://doi.org/10.1016/j.atmosenv.2019.116845.
+
+24. Qin M, Chen Z\*, **Shen H**, Li H, Wu H, Wang Y. Impacts of Heterogeneous Reactions to Atmospheric Peroxides: Observations and Budget Analysis Study. _**Atmospheric Environment**_, 2018, 183: 144-153. https://doi.org/10.1016/j.atmosenv.2018.04.005.
+
+25. Xing Y, Li H, Huang L, Wu H, **Shen H**, Chen Z\*. The Production of Formaldehyde and Hydroxyacetone in Methacrolein Photooxidation: New Insights into Mechanism and Effects of Water Vapor. _**Journal of Environmental Sciences**_, 2018, 66: 1-11. https://doi.org/10.1016/j.jes.2017.05.037.
+
+26. Wu H, Wang Y, Li H, Huang L, Huang D, **Shen H**, Xing Y, Chen Z\*. The OH-Initiated Oxidation of Atmospheric Peroxyacetic Acid: Experimental and Model Studies. _**Atmospheric Environment**_, 2018, 164: 61-70. https://doi.org/10.1016/j.atmosenv.2017.05.038.
+
+27. Feng L, **Shen H**, Zhu Y, Gao H, Yao X\*. Insight into Generation and Evolution of Sea-Salt Aerosols from Field Measurements in Diversified Marine and Coastal Atmospheres. _**Scientific Reports**_, 2017, 7(1): 41260. https://doi.org/10.1038/srep41260.
