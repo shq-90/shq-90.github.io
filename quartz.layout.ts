@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
       "ResearchGate": "https://www.researchgate.net/profile/Hengqing-Shen-2?ev=hdr_xprf",
       "GitHub": "https://github.com/shq-90",
     },
+    copyright: "",
   }),
 }
 
