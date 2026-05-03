@@ -4,7 +4,7 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-03T14:58:00.584+08:00
+modified: 2026-05-03T15:18:35.262+08:00
 ---
 
 # Hengqing Shen
@@ -47,6 +47,6 @@ My research focuses on **atmospheric multiphase chemistry**, aiming to elucidate
 
 4. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _**Environmental Science & Technology**_, 2024, 58(48): 21286-21294. https://doi.org/10.1021/acs.est.4c07278.
 
-5. 8. Zhao M, **Shen H\***, Zhang J, Liu Y, Sun Y, Wang X, Dong C, Zhu Y, Li H, Shan Y, Mu J, Zhong X, Tang J, Guo M, Wang W, Xue L\*. Carbonyl Compounds Regulate Atmospheric Oxidation Capacity and Particulate Sulfur Chemistry in the Coastal Atmosphere. _**Environmental Science & Technology**_, 2024, 58(39): 17334-17343. https://doi.org/10.1021/acs.est.4c03947.
+5. Zhao M, **Shen H\***, Zhang J, Liu Y, Sun Y, Wang X, Dong C, Zhu Y, Li H, Shan Y, Mu J, Zhong X, Tang J, Guo M, Wang W, Xue L\*. Carbonyl Compounds Regulate Atmospheric Oxidation Capacity and Particulate Sulfur Chemistry in the Coastal Atmosphere. _**Environmental Science & Technology**_, 2024, 58(39): 17334-17343. https://doi.org/10.1021/acs.est.4c03947.
 
 [View publications →](Publications.md)
