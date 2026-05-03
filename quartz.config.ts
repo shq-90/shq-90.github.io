@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Research",
+    pageTitle: "Hengqing Shen",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -21,31 +21,31 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Playfair Display", // 衬线体，更有学术感
-        body: "Source Serif 4", // 正文衬线体，阅读舒适
-        code: "JetBrains Mono", // 代码字体
+        header: "Google Sans",
+        body: "Google Sans",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#f0f4f8",
-          gray: "#b0b8c4",
-          darkgray: "#3d4f5f",
-          dark: "#1a2332",
-          secondary: "#1a5276",
-          tertiary: "#2980b9",
-          highlight: "rgba(41, 128, 185, 0.1)",
+          lightgray: "#f8f9fa",
+          gray: "#dadce0",
+          darkgray: "#5f6368",
+          dark: "#202124",
+          secondary: "#1a73e8",
+          tertiary: "#e8f0fe",
+          highlight: "rgba(26, 115, 232, 0.08)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1e1e1e",
+          lightgray: "#2d2d2d",
+          gray: "#5f6368",
+          darkgray: "#bdc1c6",
+          dark: "#e8eaed",
+          secondary: "#8ab4f8",
+          tertiary: "#1a2a3a",
+          highlight: "rgba(138, 180, 248, 0.08)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),  // 注释掉，加速构建
     ],
   },
 }
