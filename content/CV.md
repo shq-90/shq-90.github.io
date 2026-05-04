@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-04T22:13:23.699+08:00
+modified: 2026-05-04T22:28:53.634+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -64,19 +64,11 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 **Honors and Awards**
 
 Qilu Young Scholar, 2025
-
 Hong Kong Scholar, 2022
-
 Excellent Graduate of PKU, 2019
-
 National Scholarship, 2018
-
 Academic Innovation Award of PKU, 2018
-
 Excellent Graduate of Shandong Province, 2014
-
 Pacemaker to Outstanding Student of OUC, 2013
-
 Excellent Young Volunteer of OUC, 2013
-
 National Scholarship, 2012
