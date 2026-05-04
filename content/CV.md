@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-04T22:01:50.966+08:00
+modified: 2026-05-04T22:04:57.925+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -23,8 +23,8 @@ Email: hqshen@sdu.edu
 **Research Interest**
 Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive halogens; Marine atmospheric chemistry; multiphase chemical modelling.
 
-**Publication records** **(48 publications, 18 first/corresponding author publications)**
-\*\*Representative 10 publications (\* corresponding author # co-first author)
+**Publications (48 publications, 18 first/corresponding author publications)**
+**Representative 10 publications (\* corresponding author # co-first author)**
 
 1. Accepted.
 2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _**Nature Communications**_, 2025, 16(1): 8148.
