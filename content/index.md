@@ -4,11 +4,12 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-04T11:21:51.331+08:00
+modified: 2026-05-04T17:08:19.788+08:00
 ---
 
-# Hengqing Shen ![[assets/个人照.png|90]]
+# Hengqing Shen
 
+![[assets/SHQ.png|90]]
 Environment Research Institute, Shandong University
 
 📧 hqshen@sdu.edu.cn
