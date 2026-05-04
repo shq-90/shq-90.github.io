@@ -4,10 +4,10 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-04T21:49:50.773+08:00
+modified: 2026-05-04T22:07:03.917+08:00
 ---
 
-[[CV|Hengqing Shen]]
+**Hengqing Shen** ([[CV]])
 
 ![[assets/SHQ.png|80]]
 
