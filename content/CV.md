@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-04T22:29:41.115+08:00
+modified: 2026-05-04T22:32:49.824+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -19,7 +19,7 @@ Email: hqshen@sdu.edu
 
 2019-2023     Postdoctoral fellow, Environment Research Institute, Shandong University
 
-2023-2026    Postdoc/Research Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
+2023-2026     Postdoc/Research Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
 
 **Present academic position**
 
@@ -30,7 +30,6 @@ Email: hqshen@sdu.edu
 Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive halogens; Marine atmospheric chemistry; multiphase chemical modelling.
 
 **Publications (48 publications, 18 first/corresponding author publications)**
-
 **Representative 10 publications (\*corresponding author #co-first author)**
 
 1. Accepted.
@@ -63,12 +62,5 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 
 **Honors and Awards**
 
-Qilu Young Scholar, 2025
-Hong Kong Scholar, 2022
-Excellent Graduate of PKU, 2019
-National Scholarship, 2018
-Academic Innovation Award of PKU, 2018
-Excellent Graduate of Shandong Province, 2014
-Pacemaker to Outstanding Student of OUC, 2013
-Excellent Young Volunteer of OUC, 2013
-National Scholarship, 2012
+Qilu Young Scholar, 2025; Hong Kong Scholar, 2022; Excellent Graduate of PKU, 2019; National Scholarship, 2018; Academic Innovation Award of PKU, 2018
+Excellent Graduate of Shandong Province, 2014; Pacemaker to Outstanding Student of OUC, 2013; Excellent Young Volunteer of OUC, 2013; National Scholarship, 2012.
