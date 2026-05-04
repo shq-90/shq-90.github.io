@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-04T21:57:11.248+08:00
+modified: 2026-05-04T22:01:50.966+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -20,7 +20,7 @@ Email: hqshen@sdu.edu
 **Present academic position**
 2026-            Research Professor, Environment Research Institute, Shandong University
 
-_**Research Interest**_
+**Research Interest**
 Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive halogens; Marine atmospheric chemistry; multiphase chemical modelling.
 
 **Publication records** **(48 publications, 18 first/corresponding author publications)**
@@ -37,7 +37,7 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 9. Jiang Y, Xue L\*, **Shen H\***, Dong C, Xiao Z, Wang W. Dominant Processes of HONO Derived from Multiple Field Observations in Contrasting Environments. _**Environmental Science & Technology Letters**_, 2022, 9(4): 258-264. (**Front Cover Article**)
 10. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _**Environmental Science & Technology**_, 2018, 52(19): 10997-11006.
 
-\*\*Representative  Projects
+**Representative  Projects**
 
 1. Young Scientists Fund of the National Natural Science Foundation of China, _Sources of glyoxal in the offshore marine atmosphere and its impact on atmospheric oxidation capacity_, PI
 2. Young Scientists Fund of the Natural Science Foundation of Shandong Province, _Heterogeneous reactions of formaldehyde on PM2.5_, PI
@@ -55,7 +55,7 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 6. **Shen H**. Characterization of Atmospheric Peroxides and Ozone During and After the 2014 APEC Summit. _American Geophysical Union 2016 Fall Meeting_, San Francisco, USA, 15–19 December 2016. (Oral)
 
 **Honors and Awards**
-Qilu Young Scholar , 2025
+Qilu Young Scholar, 2025
 Hong Kong Scholar, 2022
 Excellent Graduate of PKU, 2019
 National Scholarship, 2018
