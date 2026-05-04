@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-04T22:04:57.925+08:00
+modified: 2026-05-04T22:13:23.699+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -10,20 +10,27 @@ modified: 2026-05-04T22:04:57.925+08:00
 Email: hqshen@sdu.edu
 
 **Academic qualifications**
+
 2019              Ph.D. (Atmospheric Chemistry), Peking University, Beijing, China
+
 2014              B.S. (Environmental Science), Ocean University of China, Qingdao, China
 
 **Previous academic positions**
+
 2019-2023     Postdoctoral fellow, Environment Research Institute, Shandong University
+
 2023-2026    Postdoc/Research Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University
 
 **Present academic position**
+
 2026-            Research Professor, Environment Research Institute, Shandong University
 
 **Research Interest**
+
 Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive halogens; Marine atmospheric chemistry; multiphase chemical modelling.
 
 **Publications (48 publications, 18 first/corresponding author publications)**
+
 **Representative 10 publications (\* corresponding author # co-first author)**
 
 1. Accepted.
@@ -55,12 +62,21 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 6. **Shen H**. Characterization of Atmospheric Peroxides and Ozone During and After the 2014 APEC Summit. _American Geophysical Union 2016 Fall Meeting_, San Francisco, USA, 15–19 December 2016. (Oral)
 
 **Honors and Awards**
+
 Qilu Young Scholar, 2025
+
 Hong Kong Scholar, 2022
+
 Excellent Graduate of PKU, 2019
+
 National Scholarship, 2018
+
 Academic Innovation Award of PKU, 2018
+
 Excellent Graduate of Shandong Province, 2014
+
 Pacemaker to Outstanding Student of OUC, 2013
+
 Excellent Young Volunteer of OUC, 2013
+
 National Scholarship, 2012
