@@ -4,7 +4,7 @@ aliases:
   - Home
 title: Atmospheric Chemistry
 created: 2026-04-29T23:33:45.139+08:00
-modified: 2026-05-07T10:18:00.739+08:00
+modified: 2026-05-07T10:36:06.034+08:00
 ---
 
 **Hengqing Shen** ([[CV]])
@@ -40,7 +40,7 @@ My research focuses on **atmospheric reactive gases**, aiming to elucidate the s
 
 (\* corresponding author, # co-first author)
 
-1. **Shen H**, Zhong X, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
+1. **Shen H#**, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
 
 2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _**Nature Communications**_, 2025, 16(1): 8148. https://doi.org/10.1038/s41467-025-63420-3.
 
