@@ -2,7 +2,7 @@
 publish: true
 title: CV
 created: 2026-04-30T00:34:27.850+08:00
-modified: 2026-05-07T09:31:37.106+08:00
+modified: 2026-05-07T10:17:35.930+08:00
 ---
 
  **Hengqing Shen** (2026)
@@ -33,7 +33,7 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 
 **Representative 10 publications (\*corresponding author # co-first author)**
 
-1. 1. **Shen H**, Zhong X, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
+1. **Shen H**, Zhong X, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
 2. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _**Nature Communications**_, 2025, 16(1): 8148.
 3. **Shen H**, Xue L\*, Zhang G\*, Zhu Y, Zhao M, Zhong X, Nie Y, Tang J, Liu Y, Yuan Q, Gao H, Wang T\*, Wang W. Marine Sources of Formaldehyde in the Coastal Atmosphere. _**Science Bulletin**_, 2025, 70(1): 96-103.
 4. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _**Environmental Science & Technology**_, 2024, 58(48): 21286-21294.
