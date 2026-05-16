@@ -9,7 +9,8 @@ const Navbar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
     { name: "Experience", slug: "experience" },
     { name: "Awards", slug: "awards" },
     { name: "Contact", slug: "contact" },
-    { name: "Join My Group", slug: "students" },
+    { name: "CV", slug: "CV" },
+    { name: "Reflections", slug: "感悟随记" },
   ]
 
   return (

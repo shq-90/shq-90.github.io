@@ -23,6 +23,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p class="visitor-counter"><span id="visitor-count"></span></p>
       </footer>
     )
   }
