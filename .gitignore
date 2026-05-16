@@ -1,12 +1,15 @@
+# 构建产物
+public/
+
+# 依赖
+node_modules/
+
+# Obsidian 配置（不需要同步到 GitHub）
+.obsidian/
+
+# 智能环境
+.smart-env/
+
+# 系统文件
 .DS_Store
-.gitignore
-node_modules
-public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
-.smart-env
+Thumbs.db
