@@ -89,11 +89,11 @@ body {
 }
 
 .gs-nav-link {
-  color: #5f6368 !important;
+  color: #3c4043 !important;
   text-decoration: none !important;
   font-family: "Google Sans", "Noto Sans SC", system-ui, sans-serif;
-  font-size: 0.85rem;
-  font-weight: 500;
+  font-size: 0.88rem;
+  font-weight: 600;
   padding: 0.5rem 0.85rem;
   border-radius: 4px;
   transition: background 0.2s, color 0.2s;
@@ -161,6 +161,20 @@ body {
   .gs-nav-link {
     padding: 0.6rem 0.85rem;
   }
+}
+
+body {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 50%, #dce3eb 100%) !important;
+  background-attachment: fixed !important;
+}
+
+.center {
+  background: rgba(255, 255, 255, 0.88) !important;
+  border-radius: 8px !important;
+  padding: 2rem !important;
+  margin: 1rem auto !important;
+  max-width: 900px !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06) !important;
 }
 `
 

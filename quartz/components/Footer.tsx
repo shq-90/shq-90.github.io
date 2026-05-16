@@ -28,6 +28,31 @@ export default ((opts?: Options) => {
     )
   }
 
-  Footer.css = style
+  Footer.css = style + `
+.visitor-counter {
+  text-align: center;
+  color: var(--darkgray);
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+.visitor-counter::before {
+  content: "👁️ Visits: ";
+}
+`
+
+Footer.afterDOMLoaded = `
+  window.addCleanup(() => {
+    const el = document.getElementById("visitor-count");
+    if (!el) return;
+    let count = parseInt(localStorage.getItem("visitor_count") || "0", 10);
+    if (!sessionStorage.getItem("visited")) {
+      count++;
+      localStorage.setItem("visitor_count", count.toString());
+      sessionStorage.setItem("visited", "1");
+    }
+    el.textContent = count;
+  });
+`
+
   return Footer
 }) satisfies QuartzComponentConstructor
