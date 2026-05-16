@@ -6,7 +6,7 @@ import Hero from "./quartz/components/Hero"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Navbar,
+    Navbar(),
     Component.ConditionalRender({
       component: Hero,
       condition: (page) => page.fileData.slug === "index",

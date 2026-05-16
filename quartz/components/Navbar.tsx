@@ -49,14 +49,20 @@ Navbar.afterDOMLoaded = `
 
 Navbar.css = `
 .gs-navbar {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 1000;
   background: #ffffff;
   border-bottom: 1px solid #e8e8e8;
   height: 56px;
   display: flex;
   align-items: center;
+}
+
+body {
+  padding-top: 56px;
 }
 
 .gs-nav-container {
