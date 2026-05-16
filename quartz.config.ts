@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "shq-sdu.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "node_modules", "public", "static", "docs", "quartz", ".github", ".smart-env", "packages"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

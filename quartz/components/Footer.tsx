@@ -61,7 +61,7 @@ export default ((opts?: Options) => {
   margin-top: 0.5rem;
 }
 .visitor-counter::before {
-  content: "👁️ Visits: ";
+  content: "Total Visits: ";
 }
 `
 

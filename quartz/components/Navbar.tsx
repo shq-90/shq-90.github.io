@@ -177,17 +177,13 @@ body {
 }
 
 body {
-  background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 50%, #dce3eb 100%) !important;
-  background-attachment: fixed !important;
+  background: #f8f9fa !important;
 }
 
-.center {
-  background: rgba(255, 255, 255, 0.88) !important;
-  border-radius: 8px !important;
-  padding: 2rem !important;
-  margin: 1rem auto !important;
+.page > .center {
   max-width: 900px !important;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06) !important;
+  margin: 0 auto !important;
+  padding: 1rem 2rem !important;
 }
 `
 
