@@ -106,7 +106,7 @@ body {
   text-decoration: none !important;
   font-family: "Google Sans", "Noto Sans SC", system-ui, sans-serif;
   font-size: 0.88rem;
-  font-weight: 600;
+  font-weight: 700;
   padding: 0.5rem 0.85rem;
   border-radius: 4px;
   transition: background 0.2s, color 0.2s;
