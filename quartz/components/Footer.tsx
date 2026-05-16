@@ -24,6 +24,31 @@ export default ((opts?: Options) => {
           ))}
         </ul>
         <p class="visitor-counter"><span id="visitor-count"></span></p>
+        <script dangerouslySetInnerHTML={{ __html: `
+          document.addEventListener("nav", function() {
+            var el = document.getElementById("visitor-count");
+            if (!el) return;
+            var count = parseInt(localStorage.getItem("visitor_count") || "0", 10);
+            if (!sessionStorage.getItem("visited")) {
+              count++;
+              localStorage.setItem("visitor_count", count.toString());
+              sessionStorage.setItem("visited", "1");
+            }
+            el.textContent = count;
+          });
+          // Run on initial load too
+          (function() {
+            var el = document.getElementById("visitor-count");
+            if (!el) return;
+            var count = parseInt(localStorage.getItem("visitor_count") || "0", 10);
+            if (!sessionStorage.getItem("visited")) {
+              count++;
+              localStorage.setItem("visitor_count", count.toString());
+              sessionStorage.setItem("visited", "1");
+            }
+            el.textContent = count;
+          })();
+        ` }} />
       </footer>
     )
   }
