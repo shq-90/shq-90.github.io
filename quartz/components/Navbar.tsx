@@ -5,10 +5,8 @@ const Navbar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
     { name: "Home", slug: "" },
     { name: "Research", slug: "research" },
     { name: "Publications", slug: "publications" },
-    { name: "Education", slug: "education" },
-    { name: "Experience", slug: "experience" },
-    { name: "Awards", slug: "awards" },
-    { name: "Contact", slug: "contact" },
+    { name: "Members", slug: "Members" },
+    { name: "News", slug: "news" },
     { name: "CV", slug: "CV" },
     { name: "Reflections", slug: "感悟随记" },
   ]
