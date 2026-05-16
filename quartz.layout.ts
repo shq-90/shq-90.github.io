@@ -35,7 +35,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [],
+  left: [
+    Component.PageNav({ title: "相关页面" }),
+  ],
   right: [],
 }
 

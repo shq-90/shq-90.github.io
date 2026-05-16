@@ -1,6 +1,14 @@
 ---
-title: Reflections
+title: 感悟随记
 publish: true
 ---
 
-Personal reflections on life, research, and the world around me.
+## 感悟随记
+
+记录生活、阅读和科研中的思考与感悟。
+
+### 目录
+
+- [阅读笔记](/感悟随记/readme)
+- [旅行随记](/感悟随记/travel)
+- [日常随想](/感悟随记/thoughts)
