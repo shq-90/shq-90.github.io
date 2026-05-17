@@ -1,6 +1,10 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import Search from "./Search"
 
-const Navbar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
+const Navbar: QuartzComponent = (props: QuartzComponentProps) => {
+  const { cfg } = props
+  const SearchComponent = Search()
+
   const navLinks = [
     { name: "Home", slug: "" },
     { name: "Research", slug: "research" },
@@ -22,6 +26,9 @@ const Navbar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           {navLinks.map(link => (
             <a href={`/${link.slug}`} class="gs-nav-link">{link.name}</a>
           ))}
+          <div class="gs-nav-search-wrapper">
+            <SearchComponent {...props} />
+          </div>
         </div>
       </div>
     </nav>
@@ -43,6 +50,45 @@ Navbar.afterDOMLoaded = `
       });
     });
   }
+
+  // Search functionality
+  const searchIcon = document.getElementById("search-icon");
+  const searchBar = document.getElementById("search-bar");
+  const searchSpace = document.getElementById("search-space");
+
+  if (searchIcon && searchBar) {
+    searchIcon.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      searchBar.classList.toggle("active");
+      const input = searchBar.querySelector("input");
+      if (searchBar.classList.contains("active") && input) {
+        setTimeout(() => input.focus(), 100);
+      }
+    });
+  }
+
+  if (searchSpace && searchBar) {
+    searchSpace.addEventListener("click", () => {
+      searchBar.classList.remove("active");
+    });
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+      e.preventDefault();
+      if (searchBar) {
+        searchBar.classList.toggle("active");
+        const input = searchBar.querySelector("input");
+        if (searchBar.classList.contains("active") && input) {
+          setTimeout(() => input.focus(), 100);
+        }
+      }
+    }
+    if (e.key === "Escape" && searchBar) {
+      searchBar.classList.remove("active");
+    }
+  });
 
   // Visitor counter
   window.addCleanup(() => {
@@ -118,6 +164,119 @@ body {
   color: #1a73e8 !important;
 }
 
+/* Search button in navbar */
+.gs-nav-search-wrapper {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+  padding-left: 0.8rem;
+  border-left: 1px solid #e8e8e8;
+}
+
+.gs-nav-search-wrapper #search-icon {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  transition: background 0.2s;
+  color: #5f6368;
+}
+
+.gs-nav-search-wrapper #search-icon:hover {
+  background: #f1f3f4;
+  color: #1a73e8;
+}
+
+.gs-nav-search-wrapper #search-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Search overlay - must be above navbar */
+#search-bar {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+  flex-direction: column;
+  align-items: center;
+  padding-top: 12vh;
+}
+
+#search-bar.active {
+  display: flex;
+}
+
+#search-bar .search-space {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+#search-bar .search {
+  width: min(620px, 85vw);
+  display: flex;
+  flex-direction: column;
+}
+
+#search-bar .search input {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  font-size: 1.05rem;
+  font-family: "Google Sans", "Noto Sans SC", system-ui, sans-serif;
+  border: 1px solid #dadce0;
+  border-radius: 12px;
+  background: #ffffff;
+  color: #202124;
+  outline: none;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+#search-bar .search input:focus {
+  border-color: #1a73e8;
+  box-shadow: 0 4px 20px rgba(26, 115, 232, 0.15);
+}
+
+#search-bar .search .search-results {
+  margin-top: 0.5rem;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 12px;
+  max-height: 55vh;
+  overflow-y: auto;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+#search-bar .search .search-results a {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  color: #202124;
+  text-decoration: none;
+  font-size: 0.92rem;
+  border-bottom: 1px solid #f1f3f4;
+  transition: background 0.15s;
+}
+
+#search-bar .search .search-results a:hover {
+  background: #f1f3f4;
+}
+
+#search-bar .search .search-results a:last-child {
+  border-bottom: none;
+}
+
+/* Hamburger */
 .gs-nav-hamburger {
   display: none;
   background: none;
@@ -173,6 +332,16 @@ body {
 
   .gs-nav-link {
     padding: 0.6rem 0.85rem;
+  }
+
+  .gs-nav-search-wrapper {
+    border-left: none;
+    border-top: 1px solid #e8e8e8;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 0.5rem;
+    margin-top: 0.3rem;
+    align-self: flex-start;
   }
 }
 
