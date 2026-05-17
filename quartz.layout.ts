@@ -7,7 +7,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Navbar(),
-    Component.Search(),   // ← 加上这一行
     Component.ConditionalRender({
       component: Hero,
       condition: (page) => page.fileData.slug === "index",
