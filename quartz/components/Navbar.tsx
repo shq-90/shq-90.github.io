@@ -35,7 +35,6 @@ export default (() => {
     )
   }
 
-  // 关键：把 Search 组件自己的脚本注入进来
   Navbar.afterDOMLoaded = `
     ${SearchComponent.afterDOMLoaded ?? ""}
 
@@ -54,7 +53,6 @@ export default (() => {
       });
     }
 
-    // Visitor counter
     window.addCleanup(() => {
       const el = document.getElementById("visitor-count");
       if (!el) return;
@@ -68,7 +66,6 @@ export default (() => {
     });
   `
 
-  // 关键：把 Search 组件自己的样式注入进来
   Navbar.css = `
     ${SearchComponent.css ?? ""}
 
@@ -131,7 +128,6 @@ export default (() => {
       color: #1a73e8 !important;
     }
 
-    /* Search in navbar */
     .gs-nav-search-wrapper {
       display: flex;
       align-items: center;
@@ -164,7 +160,6 @@ export default (() => {
       height: 18px;
     }
 
-    /* Search overlay */
     #search-bar {
       display: none;
       position: fixed;
@@ -227,7 +222,6 @@ export default (() => {
       box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
     }
 
-    /* Hamburger */
     .gs-nav-hamburger {
       display: none;
       background: none;
