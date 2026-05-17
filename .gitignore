@@ -4,7 +4,7 @@ public/
 # 依赖
 node_modules/
 
-# Obsidian 配置（不需要同步到 GitHub）
+# Obsidian 配置
 .obsidian/
 
 # 智能环境
@@ -13,3 +13,16 @@ node_modules/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 内容文件（由 Obsidian Syncer 管理，推送到 content/）
+# Git 不追踪这些，避免与 Syncer 冲突
+index.md
+cv/
+publications/
+members/
+news/
+research/
+papers/
+感悟随记/
+Asserts/
+Photo/
