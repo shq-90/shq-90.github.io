@@ -9,7 +9,7 @@ modified: 2026-05-07T10:36:06.034+08:00
 
 **Hengqing Shen** ([[cv/index|CV]])
 
-![[Asserts/个人照/SHQ.png|300]]
+![[Asserts/个人照/SHQ.png|100]]
 
 **Research Professor**, Environment Research Institute, Shandong University
 
