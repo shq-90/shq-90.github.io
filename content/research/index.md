@@ -2,7 +2,7 @@
 publish: true
 title: Research
 created: 2026-05-16T23:38:33.824+08:00
-modified: 2026-05-17T16:17:55.353+08:00
+modified: 2026-05-17T16:23:18.088+08:00
 ---
 
 ## (一) Reactive Gases in the Marine Atmosphere
@@ -15,12 +15,12 @@ modified: 2026-05-17T16:17:55.353+08:00
 
 ### (2) Marine carbonyls and impacts
 
-![[TOC.jpg|600]]
+![[Asserts/TOC 2.jpg|600]]
 
-![[TOC.jpg|600]]
+![[Asserts/TOC 2.jpg|600]]
 
 ## (二) Partitioning of Carbonyls and Their Impacts on Sulfur chemistry
 
 ![[Asserts/TOC 1.jpg|600]]
 
-![[Fig2.jpg|600]]
+![[Asserts/Fig2.jpg|600]]
