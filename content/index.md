@@ -15,13 +15,15 @@ modified: 2026-05-07T10:36:06.034+08:00
 
 📧 hqshen@sdu.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?user=2xsnOWEAAAAJ\&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hengqing-Shen-2/research)
+[Google Scholar](https://scholar.google.com/citations?user=2xsnOWEAAAAJ\&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hengqing-Shen-2/research)  · [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0680-5382)  · [Web of Science](https://www.webofscience.com/wos/author/record/AGC-2160-2022)
 
 ---
 
 ## Research Interests
 
-My research focuses on **atmospheric reactive gases**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere. I have published **49 papers** in leading journals including _**Science Advances**_, _**Nature Communications**_, _**Science Bulletin**_, and _**Environmental Science & Technology**_, with **18 papers** as first/corresponding author and **917 total citations**.
+My research focuses on **atmospheric reactive gases**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere.
+
+I have published **49 papers** in leading journals including _**Science Advances**_, _**Nature Communications**_, _**Science Bulletin**_, and _**Environmental Science & Technology**_, with **18 papers** as first/corresponding author and **917 total citations**.
 
 - **Atmospheric Chemistry of Reactive Gases**: Sources and transformation mechanisms of carbonyl compounds, HONO, and halogens in the atmosphere
 - **Marine Atmospheric Chemistry**: Air-sea exchange of reactive nitrogen and halogens in the coastal atmosphere
