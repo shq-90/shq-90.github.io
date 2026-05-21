@@ -11,7 +11,7 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 ### 2026
 
-1. Huang L, Shen H\*, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
+1. Huang L, **Shen H\***, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
 
 2. **Shen H**#, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
 
