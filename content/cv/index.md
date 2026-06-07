@@ -63,5 +63,5 @@ Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive
 
 **Honors and Awards**
 
-Qilu Young Scholar, 2025; Hong Kong Scholar, 2022; Excellent Graduate of PKU, 2019; National Scholarship, 2018; Academic Innovation Award of PKU, 2018
+Qilu Young Scholar, 2025; Excellent Graduate of PKU, 2019; National Scholarship, 2018; Academic Innovation Award of PKU, 2018
 Excellent Graduate of Shandong Province, 2014; Pacemaker to Outstanding Student of OUC, 2013; Excellent Young Volunteer of OUC, 2013; National Scholarship, 2012.
