@@ -21,9 +21,9 @@ modified: 2026-05-07T10:36:06.034+08:00
 
 ## Research Interests
 
-My research focuses on **atmospheric reactive gases**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gaseous species in the atmosphere.
+My research focuses on **atmospheric reactive gases**, aiming to elucidate the sources, transformations, and environmental impacts of reactive gases in the atmosphere.
 
-I have published **51 papers** in leading journals including _**Science Advances**_, _**Nature Communications**_, _**Science Bulletin**_, and _**Environmental Science & Technology**_, with **19 papers** as first/corresponding author and **956 total citations**.
+I have published **53 papers** in leading journals including _**Science Advances**_, _**Nature Communications**_, _**Science Bulletin**_, and _**Environmental Science & Technology**_, with **19 papers** as first/corresponding author and **971 total citations**.
 
 - **Atmospheric Chemistry of Reactive Gases**: Sources and transformation mechanisms of carbonyl compounds, HONO, and halogens in the atmosphere
 - **Marine Atmospheric Chemistry**: Air-sea exchange of reactive nitrogen and halogens in the coastal atmosphere
