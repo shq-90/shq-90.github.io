@@ -15,7 +15,7 @@ modified: 2026-05-07T10:36:06.034+08:00
 
 📧 hqshen@sdu.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?user=2xsnOWEAAAAJ\&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hengqing-Shen-2/research)  · [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0680-5382)  · [Web of Science](https://www.webofscience.com/wos/author/record/AGC-2160-2022)
+[Google Scholar](https://scholar.google.com/citations?user=2xsnOWEAAAAJ\&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hengqing-Shen-2/research)  · [ORCID](https://orcid.org/0000-0002-0680-5382)  · [Web of Science](https://www.webofscience.com/wos/author/record/AGC-2160-2022)
 
 ---
 
