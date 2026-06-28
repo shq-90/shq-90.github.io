@@ -29,7 +29,7 @@ Email: hqshen@sdu.edu
 
 Atmospheric sources and chemical transformation of carbonyls, HONO, and reactive halogens; Marine atmospheric chemistry; multiphase chemical modelling.
 
-**Publications (50 publications, 19 first/corresponding author publications)**
+**Publications (54 publications, 20 first/corresponding author publications)**
 
 **Representative 10 publications (\*corresponding author # co-first author)**
 
