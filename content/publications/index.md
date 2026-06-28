@@ -11,7 +11,7 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 ### 2026
 
-1. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. _\*\*Atmospheric Environment_\*\*  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
+1. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. ****Atmospheric Environment****  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
 
 2. Huang L, **Shen H\***, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
 
