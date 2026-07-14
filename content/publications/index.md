@@ -11,17 +11,17 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 ### 2026
 
-1. **Shen H**, Huang L\*, Zhao Y, Zhao M, Yang Y, Li H, Wu H, Chen Z\*. High Yields of Formic Acid and Acetic Acid during Multi-generational Oxidation of Toluene. _**Atmospheric Chemistry and Physics**_  2026, https://doi.org/10.5194/egusphere-2026-234.
+1. **Shen H**, Huang L\*, Zhao Y, Zhao M, Yang Y, Li H, Wu H, Chen Z\*. High Yields of Formic Acid and Acetic Acid during Multi-generational Oxidation of Toluene. _**Atmospheric Chemistry and Physics**_,  2026, https://doi.org/10.5194/egusphere-2026-234.
 
 2. Sun W#, **Shen H#**, Chen X, Jiang Y, Poon S, Wang T\*. Rapid HCl production from chlorine oxidation sustains coastal atmospheric chlorine cycling. _**Geophysical Research Letters**_, 2026, 53(14), e2025GL120753., https://doi.org/10.1029/2025GL120753.
 
-3. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. ****Atmospheric Environment****  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
+3. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. _**Atmospheric Environment**_,  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
 
 4. Huang L, **Shen H\***, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
 
 5. **Shen H**#, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
 
-6. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
+6. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. \*_**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
 
 ### 2025
 
