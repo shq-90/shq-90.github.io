@@ -5,7 +5,7 @@ created: 2026-04-30T00:33:55.162+08:00
 modified: 2026-05-07T10:36:35.972+08:00
 ---
 
-## First/corresponding	authors (N=22)
+## First/corresponding	authors (N=21)
 
 (\* corresponding author, # co-first author)
 
@@ -53,13 +53,11 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 18. **Shen H**, Liu Y, Zhao M, Li J\*, Zhang Y, Yang J, Jiang Y, Chen T, Chen M, Huang X, Li C, Guo D, Sun X, Xue L\*, Wang W. Significance of Carbonyl Compounds to Photochemical Ozone Formation in a Coastal City (Shantou) in Eastern China. _**Science of The Total Environment**_, 2021, 764: 144031. https://doi.org/10.1016/j.scitotenv.2020.144031.
 
-19. Pei C, Mu J, Zhang Y, **Shen H\***, Chen Y, Huang J, Ding H, Li C. Source Apportionment of Ozone Pollution in Guangzhou: Case Study with the Application of Lagrangian Photochemical Trajectory Model. Huanjing Kexue, 2021, 42, 1615–1625. https://doi.org/10.13227/j.hjkx.202009058.
+19. Liu Y, **Shen H\***, Mu J, Li H, Chen T, Yang J, Jiang Y, Zhu Y, Meng H, Dong C, Wang W, Xue L\*. Formation of Peroxyacetyl Nitrate (PAN) and Its Impact on Ozone Production in the Coastal Atmosphere of Qingdao, North China. _**Science of The Total Environment**_, 2021, 778: 146265. https://doi.org/10.1016/j.scitotenv.2021.146265.
 
-20. Liu Y, **Shen H\***, Mu J, Li H, Chen T, Yang J, Jiang Y, Zhu Y, Meng H, Dong C, Wang W, Xue L\*. Formation of Peroxyacetyl Nitrate (PAN) and Its Impact on Ozone Production in the Coastal Atmosphere of Qingdao, North China. _**Science of The Total Environment**_, 2021, 778: 146265. https://doi.org/10.1016/j.scitotenv.2021.146265.
+20. Yang J, **Shen H\***, Guo M-Z\*, Zhao M, Jiang Y, Chen T, Liu Y, Li H, Zhu Y, Meng H, Wang W, Xue L\*. Strong Marine-Derived Nitrous Acid (HONO) Production Observed in the Coastal Atmosphere of Northern China. _**Atmospheric Environment**_, 2021, 244: 117948. https://doi.org/10.1016/j.atmosenv.2020.117948.
 
-21. Yang J, **Shen H\***, Guo M-Z\*, Zhao M, Jiang Y, Chen T, Liu Y, Li H, Zhu Y, Meng H, Wang W, Xue L\*. Strong Marine-Derived Nitrous Acid (HONO) Production Observed in the Coastal Atmosphere of Northern China. _**Atmospheric Environment**_, 2021, 244: 117948. https://doi.org/10.1016/j.atmosenv.2020.117948.
-
-22. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _**Environmental Science & Technology**_, 2018, 52(19): 10997-11006.  https://doi.org/10.1021/acs.est.8b01882.
+21. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _**Environmental Science & Technology**_, 2018, 52(19): 10997-11006.  https://doi.org/10.1021/acs.est.8b01882.
 
 ## Co-authorship
 
