@@ -5,7 +5,7 @@ created: 2026-04-30T00:33:55.162+08:00
 modified: 2026-05-07T10:36:35.972+08:00
 ---
 
-## First/corresponding	authors (N=20)
+## First/corresponding	authors (N=22)
 
 (\* corresponding author, # co-first author)
 
@@ -13,49 +13,53 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 1. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. ****Atmospheric Environment****  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
 
-2. Huang L, **Shen H\***, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
+2. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. ****Atmospheric Environment****  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
 
-3. **Shen H**#, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
+3. **Shen H\***, Sun W, Chen X, Jiang Y, Poon S, Wang T\*. HCl in the Coastal Atmosphere: Chlorine Reservoir and Thermodynamic Partitioning. ****Atmospheric Environment****  2026, 122196, https://doi.org/10.1016/j.atmosenv.2026.122196.
 
-4. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
+4. Huang L, **Shen H\***, Wu H, Yang Y, Liu P, Chen Z\*. Effects of Formaldehyde on the Heterogeneous Reactions of Sulfur Dioxide on Mineral Dust, _**Atmospheric Environment**_, 2026, 122100, https://doi.org/10.1016/j.atmosenv.2026.122100.
+
+5. **Shen H**#, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
+
+6. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
 
 ### 2025
 
-5. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _**Nature Communications**_, 2025, 16(1): 8148. https://doi.org/10.1038/s41467-025-63420-3.
+7. **Shen H#**, Li Q#, Xu F#, Xue L\*, Hu Y, Saiz-Lopez A\*, Wang W, Wang T\*. Aerosol Iodide Accelerates Reactive Nitrogen Cycling in the Marine Atmosphere. _**Nature Communications**_, 2025, 16(1): 8148. https://doi.org/10.1038/s41467-025-63420-3.
 
-6. **Shen H**, Xue L\*, Zhang G\*, Zhu Y, Zhao M, Zhong X, Nie Y, Tang J, Liu Y, Yuan Q, Gao H, Wang T\*, Wang W. Marine Sources of Formaldehyde in the Coastal Atmosphere. _**Science Bulletin**_, 2025, 70(1): 96-103. https://doi.org/10.1016/j.scib.2024.09.024.
+8. **Shen H**, Xue L\*, Zhang G\*, Zhu Y, Zhao M, Zhong X, Nie Y, Tang J, Liu Y, Yuan Q, Gao H, Wang T\*, Wang W. Marine Sources of Formaldehyde in the Coastal Atmosphere. _**Science Bulletin**_, 2025, 70(1): 96-103. https://doi.org/10.1016/j.scib.2024.09.024.
 
-7. Zhao M, **Shen H\***, Zhang G, Li L, Zhu Y, Meng H, Zhao B, Liu Y, Zhong X, Gao Y, Guo Y, Sun Y, Gao Z, Zhang Y, Hou K, Yao X, Wang T, Mu Y, Zhang C, Wang W, Xue L\*. Underestimated Formaldehyde Emissions from Residential Coal Combustion in Rural China. _**Environmental Science & Technology**_, 2025, 59(50): 27508-27516. https://doi.org/10.1021/acs.est.5c09564.
+9. Zhao M, **Shen H\***, Zhang G, Li L, Zhu Y, Meng H, Zhao B, Liu Y, Zhong X, Gao Y, Guo Y, Sun Y, Gao Z, Zhang Y, Hou K, Yao X, Wang T, Mu Y, Zhang C, Wang W, Xue L\*. Underestimated Formaldehyde Emissions from Residential Coal Combustion in Rural China. _**Environmental Science & Technology**_, 2025, 59(50): 27508-27516. https://doi.org/10.1021/acs.est.5c09564.
 
-8. Zheng C#, **Shen H#**, Sun J, Liu G\*, Cao H, Zhang J, Gong X, Xu D. Multi-Routine-Data Driven Spatio-Temporal Short-Term Predictions for Surface Ozone in China. _**Air Quality, Atmosphere & Health**_, 2025, 18(7): 2021-2030. https://doi.org/10.1007/s11869-025-01749-w.
+10. Zheng C#, **Shen H#**, Sun J, Liu G\*, Cao H, Zhang J, Gong X, Xu D. Multi-Routine-Data Driven Spatio-Temporal Short-Term Predictions for Surface Ozone in China. _**Air Quality, Atmosphere & Health**_, 2025, 18(7): 2021-2030. https://doi.org/10.1007/s11869-025-01749-w.
 
 ### 2024
 
-9. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _**Environmental Science & Technology**_, 2024, 58(48): 21286-21294. https://doi.org/10.1021/acs.est.4c07278.
+11. **Shen H**, Huang L\*, Qian X, Qin X, Chen Z\*. Positive Feedback between Partitioning of Carbonyl Compounds and Particulate Sulfur Formation during Haze Episodes. _**Environmental Science & Technology**_, 2024, 58(48): 21286-21294. https://doi.org/10.1021/acs.est.4c07278.
 
-10. Zhao M, **Shen H\***, Zhang J, Liu Y, Sun Y, Wang X, Dong C, Zhu Y, Li H, Shan Y, Mu J, Zhong X, Tang J, Guo M, Wang W, Xue L\*. Carbonyl Compounds Regulate Atmospheric Oxidation Capacity and Particulate Sulfur Chemistry in the Coastal Atmosphere. _**Environmental Science & Technology**_, 2024, 58(39): 17334-17343. https://doi.org/10.1021/acs.est.4c03947.
+12. Zhao M, **Shen H\***, Zhang J, Liu Y, Sun Y, Wang X, Dong C, Zhu Y, Li H, Shan Y, Mu J, Zhong X, Tang J, Guo M, Wang W, Xue L\*. Carbonyl Compounds Regulate Atmospheric Oxidation Capacity and Particulate Sulfur Chemistry in the Coastal Atmosphere. _**Environmental Science & Technology**_, 2024, 58(39): 17334-17343. https://doi.org/10.1021/acs.est.4c03947.
 
-11. **Shen H**, Xue L\*, Fan G, Xu H, Zhang Z, Pan G, Wang T\*, Wang W. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _**ACS ES\&T Air**_, 2024, 1(7): 714-724. (**2024 Best Paper Award**). https://doi.org/10.1021/acsestair.4c00050.
+13. **Shen H**, Xue L\*, Fan G, Xu H, Zhang Z, Pan G, Wang T\*, Wang W. Trace Metals Reveal Significant Contribution of Coal Combustion to Winter Haze Pollution in Northern China. _**ACS ES\&T Air**_, 2024, 1(7): 714-724. (**2024 Best Paper Award**). https://doi.org/10.1021/acsestair.4c00050.
 
-12. Tang J, **Shen H\***, Li H, Ji Y, Zhong X, Zhao M, Liu Y, Guo M, Shang F, Xue L\*. Significant Contributions of the Petroleum Industry to Volatile Organic Compounds and Ozone Pollution: Insights from Year-Long Observations in the Yellow River Delta. _**Atmospheric and Oceanic Science Letters**_, 2024, 17(6): 100523. https://doi.org/10.1016/j.aosl.2024.100523.
+14. Tang J, **Shen H\***, Li H, Ji Y, Zhong X, Zhao M, Liu Y, Guo M, Shang F, Xue L\*. Significant Contributions of the Petroleum Industry to Volatile Organic Compounds and Ozone Pollution: Insights from Year-Long Observations in the Yellow River Delta. _**Atmospheric and Oceanic Science Letters**_, 2024, 17(6): 100523. https://doi.org/10.1016/j.aosl.2024.100523.
 
 ### Before 2023
 
-13. Zhong X, **Shen H\***, Zhao M, Zhang J, Sun Y, Liu Y, Zhang Y, Shan Y, Li H, Mu J, Yang Y, Nie Y, Tang J, Dong C, Wang X, Zhu Y, Guo M, Wang W, Xue L\*. Nitrous Acid Budgets in the Coastal Atmosphere: Potential Daytime Marine Sources. _**Atmospheric Chemistry and Physics**_, 2023, 23(23): 14761-14778. https://doi.org/10.5194/acp-23-14761-2023.
+15. Zhong X, **Shen H\***, Zhao M, Zhang J, Sun Y, Liu Y, Zhang Y, Shan Y, Li H, Mu J, Yang Y, Nie Y, Tang J, Dong C, Wang X, Zhu Y, Guo M, Wang W, Xue L\*. Nitrous Acid Budgets in the Coastal Atmosphere: Potential Daytime Marine Sources. _**Atmospheric Chemistry and Physics**_, 2023, 23(23): 14761-14778. https://doi.org/10.5194/acp-23-14761-2023.
 
-14. Jiang Y, Xue L\*, **Shen H\***, Dong C, Xiao Z, Wang W. Dominant Processes of HONO Derived from Multiple Field Observations in Contrasting Environments. _**Environmental Science & Technology Letters**_, 2022, 9(4): 258-264. (**Front Cover Article**)
+16. Jiang Y, Xue L\*, **Shen H\***, Dong C, Xiao Z, Wang W. Dominant Processes of HONO Derived from Multiple Field Observations in Contrasting Environments. _**Environmental Science & Technology Letters**_, 2022, 9(4): 258-264. (**Front Cover Article**)
 
-15. Gu R, **Shen H\***, Xue L\*, Wang T\*, Gao J, Li H, Liang Y, Xia M, Yu C, Liu Y, Wang W. Investigating the Sources of Atmospheric Nitrous Acid (HONO) in the Megacity of Beijing, China. _**Science of The Total Environment**_, 2022, 812(15): 152270. https://doi.org/10.1016/j.scitotenv.2021.152270.
+17. Gu R, **Shen H\***, Xue L\*, Wang T\*, Gao J, Li H, Liang Y, Xia M, Yu C, Liu Y, Wang W. Investigating the Sources of Atmospheric Nitrous Acid (HONO) in the Megacity of Beijing, China. _**Science of The Total Environment**_, 2022, 812(15): 152270. https://doi.org/10.1016/j.scitotenv.2021.152270.
 
-16. **Shen H**, Liu Y, Zhao M, Li J\*, Zhang Y, Yang J, Jiang Y, Chen T, Chen M, Huang X, Li C, Guo D, Sun X, Xue L\*, Wang W. Significance of Carbonyl Compounds to Photochemical Ozone Formation in a Coastal City (Shantou) in Eastern China. _**Science of The Total Environment**_, 2021, 764: 144031. https://doi.org/10.1016/j.scitotenv.2020.144031.
+18. **Shen H**, Liu Y, Zhao M, Li J\*, Zhang Y, Yang J, Jiang Y, Chen T, Chen M, Huang X, Li C, Guo D, Sun X, Xue L\*, Wang W. Significance of Carbonyl Compounds to Photochemical Ozone Formation in a Coastal City (Shantou) in Eastern China. _**Science of The Total Environment**_, 2021, 764: 144031. https://doi.org/10.1016/j.scitotenv.2020.144031.
 
-17. Pei C, Mu J, Zhang Y, **Shen H\***, Chen Y, Huang J, Ding H, Li C. Source Apportionment of Ozone Pollution in Guangzhou: Case Study with the Application of Lagrangian Photochemical Trajectory Model. Huanjing Kexue, 2021, 42, 1615–1625. https://doi.org/10.13227/j.hjkx.202009058.
+19. Pei C, Mu J, Zhang Y, **Shen H\***, Chen Y, Huang J, Ding H, Li C. Source Apportionment of Ozone Pollution in Guangzhou: Case Study with the Application of Lagrangian Photochemical Trajectory Model. Huanjing Kexue, 2021, 42, 1615–1625. https://doi.org/10.13227/j.hjkx.202009058.
 
-18. Liu Y, **Shen H\***, Mu J, Li H, Chen T, Yang J, Jiang Y, Zhu Y, Meng H, Dong C, Wang W, Xue L\*. Formation of Peroxyacetyl Nitrate (PAN) and Its Impact on Ozone Production in the Coastal Atmosphere of Qingdao, North China. _**Science of The Total Environment**_, 2021, 778: 146265. https://doi.org/10.1016/j.scitotenv.2021.146265.
+20. Liu Y, **Shen H\***, Mu J, Li H, Chen T, Yang J, Jiang Y, Zhu Y, Meng H, Dong C, Wang W, Xue L\*. Formation of Peroxyacetyl Nitrate (PAN) and Its Impact on Ozone Production in the Coastal Atmosphere of Qingdao, North China. _**Science of The Total Environment**_, 2021, 778: 146265. https://doi.org/10.1016/j.scitotenv.2021.146265.
 
-19. Yang J, **Shen H\***, Guo M-Z\*, Zhao M, Jiang Y, Chen T, Liu Y, Li H, Zhu Y, Meng H, Wang W, Xue L\*. Strong Marine-Derived Nitrous Acid (HONO) Production Observed in the Coastal Atmosphere of Northern China. _**Atmospheric Environment**_, 2021, 244: 117948. https://doi.org/10.1016/j.atmosenv.2020.117948.
+21. Yang J, **Shen H\***, Guo M-Z\*, Zhao M, Jiang Y, Chen T, Liu Y, Li H, Zhu Y, Meng H, Wang W, Xue L\*. Strong Marine-Derived Nitrous Acid (HONO) Production Observed in the Coastal Atmosphere of Northern China. _**Atmospheric Environment**_, 2021, 244: 117948. https://doi.org/10.1016/j.atmosenv.2020.117948.
 
-20. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _**Environmental Science & Technology**_, 2018, 52(19): 10997-11006.  https://doi.org/10.1021/acs.est.8b01882.
+22. **Shen H**, Chen Z\*, Li H, Qian X, Qin X, Shi W. Gas-Particle Partitioning of Carbonyl Compounds in the Ambient Atmosphere. _**Environmental Science & Technology**_, 2018, 52(19): 10997-11006.  https://doi.org/10.1021/acs.est.8b01882.
 
 ## Co-authorship
 
