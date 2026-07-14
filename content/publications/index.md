@@ -21,7 +21,7 @@ modified: 2026-05-07T10:36:35.972+08:00
 
 5. **Shen H**#, Zhong X#, Zhu Y, Nie Y, Zhao M, Li Q, Zhang Y, Huang L, Zong Z, Yuan Q, Wang T, Saiz-Lopez A, Wang W, Xue L\*. HONO Emission from Marine Algae. _**Science Advances**_, 2026, 12: eaeb8486. https://doi.org/10.1126/sciadv.aeb8486.
 
-6. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. \*_**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
+6. Zhong X, **Shen H\***, Li H, Liu Y, Zhu Y, Huang L\*, Yang J, Zhang J, Nie Y, Zhao M, Sun Y, Yang Y, Cui C, Zhang J, Liu X, Yuan Q, Jiang Y, Li H, Wang W, Xue L\*. Atmospheric Nitrous Acid in Contrasting Environments in North China. _**Environmental Science & Technology**_, 2026, 60(14): 10961-10969. https://doi.org/10.1021/acs.est.6c01752.
 
 ### 2025
 
